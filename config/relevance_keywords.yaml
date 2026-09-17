@@ -1,0 +1,240 @@
+# Relevance pre-filter keywords — NexusFlow News Pipeline Phase 4
+# Electronics-specific terms are also loaded dynamically from inventory catalogs.
+
+topics:
+
+  semiconductor:
+    weight: 1.0
+    keywords:
+      - semiconductor
+      - chip
+      - chips
+      - fab
+      - foundry
+      - wafer
+      - ic
+      - microcontroller
+      - microprocessor
+      - asic
+      - pcb
+      - passive component
+      - electronics manufacturing
+      - packaging
+      - osat
+      - substrate
+      - silicon
+      - fabless
+      - semiconductor equipment
+
+  supply_chain:
+    weight: 0.9
+    keywords:
+      - supply chain
+      - bill of materials
+      - bom
+      - sourcing
+      - procurement
+      - lead time
+      - inventory
+      - shortage
+      - backorder
+      - single source
+      - sole source
+      - tier-1
+      - tier 1 supplier
+      - supplier
+      - vendor
+      - allocation
+
+  disruption:
+    weight: 0.85
+    keywords:
+      - shutdown
+      - closure
+      - fire
+      - outage
+      - disruption
+      - halt production
+      - suspend operations
+      - force majeure
+      - contamination
+      - evacuation
+      - production delay
+
+  geopolitical:
+    weight: 0.9
+    keywords:
+      - sanction
+      - export control
+      - embargo
+      - tariff
+      - trade restriction
+      - export ban
+      - geopolitical
+      - military escalation
+      - armed conflict
+      - conflict
+      - war
+      - missile strike
+      - military exercise
+      - invasion
+      - regional instability
+
+  labor:
+    weight: 0.8
+    keywords:
+      - strike
+      - walkout
+      - labor dispute
+      - union
+      - protest
+      - labor shortage
+      - wage dispute
+
+  logistics:
+    weight: 0.9
+    keywords:
+      - port closure
+      - port shutdown
+      - shipping delay
+      - cargo
+      - freight
+      - logistics
+      - canal
+      - route blockage
+      - customs delay
+      - maritime attack
+      - vessel attack
+      - shipping lane
+      - strait of hormuz
+      - suez canal
+      - red sea
+      - container shortage
+
+  natural_disaster:
+    weight: 0.9
+    keywords:
+      - earthquake
+      - flood
+      - tropical cyclone
+      - cyclone
+      - hurricane
+      - typhoon
+      - tsunami
+      - wildfire
+      - natural disaster
+      - volcanic eruption
+      - drought
+      - extreme weather
+      - landslide
+
+  financial:
+    weight: 0.8
+    keywords:
+      - bankruptcy
+      - insolvency
+      - credit downgrade
+      - liquidity crisis
+      - default
+      - financial distress
+      - restructuring
+      - debt crisis
+
+  cyber:
+    weight: 0.9
+    keywords:
+      - ransomware
+      - cyberattack
+      - cyber attack
+      - malware
+      - data breach
+      - supply chain attack
+      - operational technology
+      - industrial control systems
+      - network intrusion
+
+  energy:
+    weight: 0.85
+    keywords:
+      - power outage
+      - blackout
+      - rolling blackout
+      - grid failure
+      - electricity shortage
+      - gas shortage
+      - fuel shortage
+      - utility disruption
+
+  regulatory:
+    weight: 0.75
+    keywords:
+      - regulation
+      - compliance
+      - export license
+      - import restriction
+      - environmental regulation
+      - customs regulation
+      - certification requirement
+
+  health:
+    weight: 0.75
+    keywords:
+      - epidemic
+      - pandemic
+      - quarantine
+      - lockdown
+      - travel restriction
+      - health emergency
+
+  market:
+    weight: 0.8
+    keywords:
+      - rare earth shortage
+      - commodity price
+      - semiconductor shortage
+      - raw material shortage
+      - demand surge
+      - demand collapse
+      - supply shortage
+
+
+# Hard-drop patterns — article rejected if any match (unless auto-pass provider)
+negative_keywords:
+  - football
+  - soccer
+  - basketball
+  - baseball
+  - celebrity
+  - movie premiere
+  - album release
+  - reality tv
+  - fashion week
+  - recipe
+  - horoscope
+  - astrology
+  - gaming tournament
+  - esports
+
+
+# Provider-specific pre-filter rules
+provider_rules:
+
+  gdacs:
+    auto_pass: true
+    min_score: 0.0
+
+  gdelt:
+    auto_pass: false
+    min_score: 0.40
+
+  marketaux:
+    auto_pass: false
+    min_score: 0.35
+
+  gnews:
+    auto_pass: false
+    min_score: 0.45
+
+  newsdata:
+    auto_pass: false
+    min_score: 0.45

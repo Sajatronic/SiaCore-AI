@@ -1,0 +1,5223 @@
+{
+  "version": "1.0.0",
+  "suppliers": {
+    "SUP002": {
+      "canonical_id": "SUP002",
+      "name": "SUP002",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Diodes Incorporated",
+        "Microchip Technology",
+        "NXP Semiconductors",
+        "Power Integrations",
+        "Renesas Electronics Corporation",
+        "STMicroelectronics",
+        "Skyworks Solutions",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "i_o_expanders",
+        "microcontrollers",
+        "microprocessors",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP011": {
+      "canonical_id": "SUP011",
+      "name": "SUP011",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Infineon Technologies",
+        "Lumissil Microsystems",
+        "Microchip Technology",
+        "NXP Semiconductors",
+        "Nisshinbo Micro Devices Inc.",
+        "Nuvoton Technology Corporation",
+        "Semtech Corporation",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "i_o_expanders",
+        "microcontrollers",
+        "microprocessors",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP012": {
+      "canonical_id": "SUP012",
+      "name": "SUP012",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Diodes Incorporated",
+        "Microchip Technology",
+        "Semtech Corporation",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "i_o_expanders",
+        "microcontrollers",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP027": {
+      "canonical_id": "SUP027",
+      "name": "SUP027",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "NXP Semiconductors",
+        "STMicroelectronics",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "i_o_expanders",
+        "microprocessors"
+      ]
+    },
+    "SUP001": {
+      "canonical_id": "SUP001",
+      "name": "SUP001",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Cirrus Logic",
+        "Diodes Incorporated",
+        "Microchip Technology",
+        "Nisshinbo Micro Devices Inc.",
+        "Renesas Electronics Corporation",
+        "Silicon Motion",
+        "Skyworks Solutions",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "i_o_expanders",
+        "microprocessors",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP022": {
+      "canonical_id": "SUP022",
+      "name": "SUP022",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Diodes Incorporated",
+        "MaxLinear",
+        "Microchip Technology",
+        "NXP Semiconductors",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "audio_amplifiers",
+        "i_o_expanders",
+        "microcontrollers",
+        "microprocessors",
+        "specialized_ics"
+      ]
+    },
+    "SUP014": {
+      "canonical_id": "SUP014",
+      "name": "SUP014",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Microchip Technology",
+        "NXP Semiconductors",
+        "Raspberry Pi",
+        "Renesas Electronics Corporation",
+        "Sanyo",
+        "Semtech Corporation",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "microcontrollers",
+        "microprocessors",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP003": {
+      "canonical_id": "SUP003",
+      "name": "SUP003",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Cirrus Logic",
+        "Microchip Technology",
+        "NXP Semiconductors",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "i_o_expanders",
+        "microprocessors",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP004": {
+      "canonical_id": "SUP004",
+      "name": "SUP004",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Microchip Technology",
+        "NXP Semiconductors",
+        "Silicon Motion",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "i_o_expanders",
+        "microcontrollers",
+        "microprocessors",
+        "video_processing"
+      ]
+    },
+    "SUP006": {
+      "canonical_id": "SUP006",
+      "name": "SUP006",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Kinetic Technologies",
+        "Microchip Technology",
+        "Renesas Electronics Corporation",
+        "Semtech Corporation",
+        "Texas Instruments",
+        "XMOS"
+      ],
+      "categories": [
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "i_o_expanders",
+        "microprocessors",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP018": {
+      "canonical_id": "SUP018",
+      "name": "SUP018",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Diodes Incorporated",
+        "Microchip Technology",
+        "STMicroelectronics",
+        "Semtech Corporation",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "audio_amplifiers",
+        "i_o_expanders",
+        "microprocessors",
+        "video_processing"
+      ]
+    },
+    "SUP009": {
+      "canonical_id": "SUP009",
+      "name": "SUP009",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Cirrus Logic",
+        "Diodes Incorporated",
+        "Microchip Technology",
+        "Monolithic Power Systems",
+        "NXP Semiconductors",
+        "Renesas Electronics Corporation",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "i_o_expanders",
+        "microcontrollers",
+        "microprocessors",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP008": {
+      "canonical_id": "SUP008",
+      "name": "SUP008",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "BridgeTek",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "audio_amplifiers",
+        "video_processing"
+      ]
+    },
+    "SUP019": {
+      "canonical_id": "SUP019",
+      "name": "SUP019",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Abracon LLC",
+        "STMicroelectronics",
+        "Semtech Corporation",
+        "onsemi"
+      ],
+      "categories": [
+        "application_specific_clock_timing",
+        "i_o_expanders",
+        "specialized_ics",
+        "video_processing"
+      ]
+    },
+    "SUP005": {
+      "canonical_id": "SUP005",
+      "name": "SUP005",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "BridgeTek",
+        "Microchip Technology",
+        "NXP Semiconductors",
+        "Semtech Corporation"
+      ],
+      "categories": [
+        "i_o_expanders",
+        "microcontrollers",
+        "microprocessors",
+        "video_processing"
+      ]
+    },
+    "SUP021": {
+      "canonical_id": "SUP021",
+      "name": "SUP021",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Microchip Technology"
+      ],
+      "categories": [
+        "specialized_ics"
+      ]
+    },
+    "SUP007": {
+      "canonical_id": "SUP007",
+      "name": "SUP007",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "BridgeTek",
+        "Microchip Technology",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "audio_special_purpose",
+        "video_processing"
+      ]
+    },
+    "SUP026": {
+      "canonical_id": "SUP026",
+      "name": "SUP026",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Skyworks Solutions",
+        "Texas Instruments",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "audio_special_purpose",
+        "specialized_ics"
+      ]
+    },
+    "SUP024": {
+      "canonical_id": "SUP024",
+      "name": "SUP024",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Diodes Incorporated",
+        "Microchip Technology",
+        "Nisshinbo Micro Devices Inc.",
+        "STMicroelectronics",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "audio_amplifiers",
+        "specialized_ics"
+      ]
+    },
+    "SUP020": {
+      "canonical_id": "SUP020",
+      "name": "SUP020",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Microchip Technology",
+        "Renesas Electronics Corporation",
+        "STMicroelectronics",
+        "Skyworks Solutions"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "microcontrollers",
+        "microprocessors",
+        "specialized_ics"
+      ]
+    },
+    "SUP015": {
+      "canonical_id": "SUP015",
+      "name": "SUP015",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Semtech Corporation",
+        "Skyworks Solutions",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "application_specific_clock_timing",
+        "microprocessors",
+        "video_processing"
+      ]
+    },
+    "SUP028": {
+      "canonical_id": "SUP028",
+      "name": "SUP028",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Cirrus Logic",
+        "NXP Semiconductors",
+        "onsemi"
+      ],
+      "categories": [
+        "analog_to_digital_converters__adc_",
+        "audio_amplifiers",
+        "microprocessors"
+      ]
+    },
+    "SUP013": {
+      "canonical_id": "SUP013",
+      "name": "SUP013",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Nisshinbo Micro Devices Inc.",
+        "Renesas Electronics Corporation",
+        "Semtech Corporation"
+      ],
+      "categories": [
+        "audio_amplifiers",
+        "microprocessors",
+        "video_processing"
+      ]
+    },
+    "SUP010": {
+      "canonical_id": "SUP010",
+      "name": "SUP010",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Epson",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "audio_amplifiers",
+        "video_processing"
+      ]
+    },
+    "SUP016": {
+      "canonical_id": "SUP016",
+      "name": "SUP016",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Semtech Corporation",
+        "Skyworks Solutions",
+        "onsemi"
+      ],
+      "categories": [
+        "application_specific_clock_timing",
+        "audio_special_purpose",
+        "video_processing"
+      ]
+    },
+    "SUP017": {
+      "canonical_id": "SUP017",
+      "name": "SUP017",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Renesas Electronics Corporation",
+        "Semtech Corporation"
+      ],
+      "categories": [
+        "application_specific_clock_timing",
+        "video_processing"
+      ]
+    },
+    "SUP029": {
+      "canonical_id": "SUP029",
+      "name": "SUP029",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "STMicroelectronics"
+      ],
+      "categories": [
+        "microprocessors"
+      ]
+    },
+    "SUP023": {
+      "canonical_id": "SUP023",
+      "name": "SUP023",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Microchip Technology"
+      ],
+      "categories": [
+        "specialized_ics"
+      ]
+    },
+    "SUP025": {
+      "canonical_id": "SUP025",
+      "name": "SUP025",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "Analog Devices",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "audio_amplifiers",
+        "specialized_ics"
+      ]
+    },
+    "SUP030": {
+      "canonical_id": "SUP030",
+      "name": "SUP030",
+      "entity_type": "SUPPLIER",
+      "linked_manufacturers": [
+        "NXP Semiconductors",
+        "Skyworks Solutions",
+        "Texas Instruments"
+      ],
+      "categories": [
+        "application_specific_clock_timing",
+        "audio_amplifiers",
+        "microprocessors"
+      ]
+    }
+  },
+  "manufacturers": {
+    "Microchip Technology": {
+      "canonical_id": "MFR:Microchip Technology",
+      "name": "Microchip Technology",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "Microchip",
+        "MCHP"
+      ],
+      "mpns": [
+        "AT88SC12816CPU",
+        "AT91SAM9260BQU",
+        "AT91SAM9G20BCU",
+        "AT91SAM9G45CCU",
+        "ATAES132SHEQT",
+        "ATECC608AMAHDAS",
+        "ATECC608ASSHDAT",
+        "ATECC608BMAHDAS",
+        "ATECC608BMAHDAT",
+        "ATECC608CMAHDAS",
+        "ATECC608CMAHDAT",
+        "ATSAMA5D27CD1GCUR",
+        "ATSHA204AMAHDAT",
+        "ATSHA204ASSHDAT",
+        "ATSHA204ASTUCZT",
+        "ATSHA204SHCZT",
+        "ATSHA204THCZT",
+        "ATTINY10TS8R",
+        "ATTINY10TSHR",
+        "ATTINY13ASSU",
+        "ATTINY13ASSUR",
+        "ATTINY1604SSNR",
+        "ATTINY1606MNR",
+        "ATTINY202SSFR",
+        "ATTINY202SSNR",
+        "ATTINY402SSNR",
+        "ATTINY404SSNR",
+        "ATTINY412SSFR",
+        "ATTINY414SSFR",
+        "DSC5570344FL1T",
+        "EQCO30R5.D",
+        "EQCO30T5.2",
+        "EQCO62X20C1I/3DW",
+        "MCP23008E/SO",
+        "MCP23008TE/ML",
+        "MCP23008TE/SO",
+        "MCP23008TE/SS",
+        "MCP3004I/SL",
+        "MCP3004TI/ST",
+        "MCP3008I/SL",
+        "MCP3008TI/SL",
+        "MCP3021A0TE/OT",
+        "MCP3021A5TE/OT",
+        "MCP3201CI/SN",
+        "MCP3201TCI/SN",
+        "MCP3204TCI/SL",
+        "MCP3204TCI/ST",
+        "MCP3208CI/SL",
+        "MCP3208TCI/SL",
+        "MCP3221A0TE/OT",
+        "MCP3221A1TE/OT",
+        "MCP3221A5TE/OT",
+        "MCP3221A5TI/OT",
+        "MCP3425A0TE/CH",
+        "MCP3461RTE/NC",
+        "PIC10F200TI/OT",
+        "PIC10F202TI/OT",
+        "PIC10F222TI/OT",
+        "PIC10F322TI/OT",
+        "PIC12F1571TI/SN",
+        "PIC12F1572TI/SN",
+        "PIC12F508I/SN",
+        "PIC16F15213I/SN",
+        "PIC16F15213TI/MF",
+        "PIC16F15223TI/SL",
+        "PIC16F15245TI/SS",
+        "SAM9X60D1GI/LZB",
+        "ZL40264LDG1"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP002",
+        "SUP003",
+        "SUP004",
+        "SUP005",
+        "SUP006",
+        "SUP007",
+        "SUP009",
+        "SUP011",
+        "SUP012",
+        "SUP014",
+        "SUP018",
+        "SUP020",
+        "SUP021",
+        "SUP022",
+        "SUP023",
+        "SUP024"
+      ]
+    },
+    "Texas Instruments": {
+      "canonical_id": "MFR:Texas Instruments",
+      "name": "Texas Instruments",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "TI",
+        "Texas Instruments Inc."
+      ],
+      "mpns": [
+        "ADC08161CIWM",
+        "ADC081C027CIMK/NOPB",
+        "ADC081S021CIMF",
+        "ADC081S101CIMFX",
+        "ADC082S021CIMMX",
+        "ADC0838CIWMX",
+        "ADC08831IWMX",
+        "ADC08832IMX",
+        "ADC101C027CIMK/NOPB",
+        "ADC101S021CIMFX",
+        "ADC101S051CIMF",
+        "ADC10662CIWMX",
+        "ADC1175CIMTC",
+        "ADC121C021CIMM/NOPB",
+        "ADC121S021CIMFX/NOPB",
+        "ADC121S705CIMM",
+        "ADS7142IRUGR",
+        "ADS774HIBDWR",
+        "ADS7817EB",
+        "ADS7822IDGKRQ1",
+        "ADS7834E/2K5",
+        "ADS7834EB/2K5",
+        "ADS7863IDBQ",
+        "ADS7882IPFBR",
+        "ADS7882IPFBT",
+        "ADS8324E/250",
+        "ADS8324E/2K5",
+        "AM3352BZCZ100",
+        "AM3352BZCZ60",
+        "AM3352BZCZD80",
+        "AM3358BZCZ100",
+        "AM3359BZCZA80",
+        "AM6254ATCGGAALW",
+        "AM6254ATCGHAALW",
+        "DIR9001PWR",
+        "DIX9211PTR",
+        "DRV134PA",
+        "DRV134UA/1K",
+        "DRV135UA",
+        "DRV135UA/2K5",
+        "INA1650IPWR",
+        "LED173048RSLR",
+        "LM1971MX/NOPB",
+        "LM1972MX/NOPB",
+        "LM384N/NOPB",
+        "LM386MM1",
+        "LM386MX1/NOPB",
+        "LM386N1/NOPB",
+        "LM386N4/NOPB",
+        "LM4861MX/NOPB",
+        "LM4890MX/NOPB",
+        "LMC1983CIN",
+        "LMC1983CIV",
+        "LMH0302SQ/NOPB",
+        "LMH0302SQE/NOPB",
+        "LMH0397RTVR",
+        "LMH1980MM/NOPB",
+        "LMH1981MT/NOPB",
+        "LMH1981MTX/NOPB",
+        "LMK00334RTVRQ1",
+        "LMK00338RTAR",
+        "LMKDB1102REYT",
+        "LMKDB1202REYR",
+        "LMV1090TL/NOPB",
+        "LMV1091TM/NOPB",
+        "LMV1099TL/NOPB",
+        "OMAPL138EZWTA3",
+        "PCA9539PWR",
+        "PCA9554PWR",
+        "PCA9555PWR",
+        "PCM2706CPJTR",
+        "PCM9211PTR",
+        "PGA2320IDW",
+        "SN104938DR",
+        "SN65DP159RGZR",
+        "SN65DP159RGZT",
+        "SN65DPHY440SSRHRR",
+        "SRC4392IPFBR",
+        "TAS2505IRGER",
+        "TAS3002PFB",
+        "TAS5001IPFB",
+        "TAS5010IPFBR",
+        "TCA6408ARGTR",
+        "TCA6424RGJR",
+        "TCAN4550RGYRQ1",
+        "TCAN4551RGYRQ1",
+        "TCM320AC36CPT",
+        "TCM320AC37CN",
+        "TLA2024IRUGT",
+        "TLC548CDR",
+        "TLC548CP",
+        "TLC549CDR",
+        "TLC549CP",
+        "TLC549IPS",
+        "TLC549IPSR",
+        "TLC876CPW",
+        "TPA2005D1DRBR",
+        "TPA2006D1DRBR",
+        "TPA2010D1YZFR",
+        "TPA2013D1RGPR",
+        "TPA3001D1PWP",
+        "TPA3001D1PWPR",
+        "TPA3111D1PWPR",
+        "TPA3113D2PWPR",
+        "TPA3118D2DAPR",
+        "TPA6130A2RTJR",
+        "TPA6205A1DRBR",
+        "TWL1101PFBR",
+        "TWL1103GQER",
+        "TWL1103PBSR",
+        "TWL1110PBSR",
+        "XTR305IRGWR"
+      ],
+      "supplier_ids": [
+        "SUP002",
+        "SUP003",
+        "SUP004",
+        "SUP006",
+        "SUP007",
+        "SUP008",
+        "SUP009",
+        "SUP010",
+        "SUP011",
+        "SUP012",
+        "SUP014",
+        "SUP015",
+        "SUP018",
+        "SUP022",
+        "SUP024",
+        "SUP025",
+        "SUP026",
+        "SUP027",
+        "SUP030"
+      ]
+    },
+    "Analog Devices": {
+      "canonical_id": "MFR:Analog Devices",
+      "name": "Analog Devices",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "ADI",
+        "Analog Devices Inc."
+      ],
+      "mpns": [
+        "AD2428WCCSZRL",
+        "AD8195ACPZR7",
+        "AD95231BCPZ",
+        "ADA44301YKSZR7",
+        "ADAU7002ACBZR7",
+        "ADAU7112ACBZR7",
+        "ADN2812ACPZ",
+        "ADN2814ACPZ",
+        "ADN2816ACPZ",
+        "DS2401+",
+        "DS2401P+T&R",
+        "DS2411R+T&R",
+        "DS28CM00RA00+T",
+        "DS28E15Q+T",
+        "DS28E18Q+T",
+        "DS28E50Q+T",
+        "DS34T108GN+",
+        "MAX1185ECM/V+",
+        "MAX22191AUT+T",
+        "MAX4364ESA+",
+        "MAX4364ESA+T",
+        "MAX4466EXK+T",
+        "MAX4468EKA+T",
+        "MAX4886ETO+",
+        "MAX9406ETJ+",
+        "MAX9705CETB+T",
+        "MAX9705DETB+T",
+        "SSM2211SZ",
+        "SSM2211SZREEL"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP003",
+        "SUP004",
+        "SUP006",
+        "SUP008",
+        "SUP009",
+        "SUP011",
+        "SUP014",
+        "SUP022",
+        "SUP025",
+        "SUP027"
+      ]
+    },
+    "Renesas Electronics Corporation": {
+      "canonical_id": "MFR:Renesas Electronics Corporation",
+      "name": "Renesas Electronics Corporation",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "Renesas"
+      ],
+      "mpns": [
+        "6V49205BNLGI",
+        "82P33731ABAG",
+        "82P339101BAG",
+        "82P33914NLG",
+        "842S104EGLF",
+        "932SV901AKLF",
+        "954120EFLF",
+        "9DB102BFLF",
+        "9DB306BLLF",
+        "9DB423BGLF",
+        "9DB801BFLF",
+        "9DB823BGLF",
+        "9FGL0251BKILF",
+        "9FGP304BKILF",
+        "9FGV0241AKILFT",
+        "9LPRS501PGLF",
+        "9SQL4958BNDGI",
+        "9SQL4958BNDGI8",
+        "HA4201CB96",
+        "HI5675JCB",
+        "HI9P5701K5",
+        "M61538FP#DF0G",
+        "M62457AFP#TF0G",
+        "R7S921040VCBG#AC0",
+        "R7S921040VCBG#BC0",
+        "R7S921042VCBG#AC0",
+        "R7S921042VCBG#BC0",
+        "R7S921045VCBG#AC0",
+        "R7S921045VCBG#BC0",
+        "R7S921047VCBG#AC0",
+        "R7S921047VCBG#BC0",
+        "R7S921052VCBG#BC0"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP002",
+        "SUP006",
+        "SUP009",
+        "SUP013",
+        "SUP014",
+        "SUP017",
+        "SUP020"
+      ]
+    },
+    "onsemi": {
+      "canonical_id": "MFR:onsemi",
+      "name": "onsemi",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "ON Semiconductor",
+        "ON Semi"
+      ],
+      "mpns": [
+        "AP1302CSSL00SMGA0DR",
+        "BR262W26A103E1G",
+        "CAS5140ZI50GT3",
+        "CAT9554AWIGT2",
+        "CAT9554AYIGT2",
+        "CAT9554HV4IGT2",
+        "CAT9554WIG",
+        "CAT9555YIT2",
+        "CM202001TR",
+        "CM202102TR",
+        "CM2030A0TR",
+        "CS2082EDW20",
+        "CS2082EDWR20",
+        "FAN3852UC16X",
+        "FMS6141S5X",
+        "FMS6151L6X",
+        "FMS6363CSX",
+        "FXL6408UMX",
+        "JLC1562BF",
+        "JLC1562BFEL",
+        "JLC1562BFELG",
+        "JLC1562BFG",
+        "JLC1562BN",
+        "JLC1562BNG",
+        "KA2142C",
+        "LA7837E",
+        "LA7845E",
+        "LA9425E",
+        "LC75343MTLME",
+        "LC75348MTLME",
+        "LC75410WSE",
+        "LC898229XIMH",
+        "LV3311PNMTLME",
+        "LV3313PMTLME",
+        "LV5609LPE",
+        "NB3N3010BDG",
+        "NCP2809BDMR2G",
+        "NCP2892AFCT2G",
+        "NCP2892BFCT2G",
+        "NCP2990FCT2G",
+        "NCP2991FCT2G",
+        "NCP4810DR2G",
+        "NCS2211MNTXG",
+        "NCV7462DQ1R2G",
+        "NE570DG",
+        "NTC6416ANLTS1",
+        "SA571DR2G",
+        "SA572DR2G",
+        "SA575DTBR2G",
+        "SA575N",
+        "SA575NG",
+        "SMA4306TLH"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP002",
+        "SUP003",
+        "SUP004",
+        "SUP009",
+        "SUP011",
+        "SUP014",
+        "SUP016",
+        "SUP019",
+        "SUP022",
+        "SUP026",
+        "SUP027",
+        "SUP028"
+      ]
+    },
+    "Silicon Motion": {
+      "canonical_id": "MFR:Silicon Motion",
+      "name": "Silicon Motion",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "SM750KE160000AC",
+        "SM768GE0B0000AB"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP004"
+      ]
+    },
+    "NXP Semiconductors": {
+      "canonical_id": "MFR:NXP Semiconductors",
+      "name": "NXP Semiconductors",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "NXP"
+      ],
+      "mpns": [
+        "A1006TL/TA1NXZ",
+        "A1006UK/TA1NXZ",
+        "A5000R2HQ1/Z016UZ",
+        "MC44BS374T1EFR2",
+        "MCIMX287CVM4B",
+        "MCIMX353CJQ5C",
+        "MCIMX353DJQ5C",
+        "MCIMX357CJQ5C",
+        "MCIMX6D6AVT10ADR",
+        "MCIMX6Q5EYM10AC",
+        "MCIMX6Q6AVT10AC",
+        "MCIMX6S5DVM10AB",
+        "MCIMX6S5EVM10AB",
+        "MCIMX6S7CVM08AB",
+        "MCIMX6X2EVN10ABR",
+        "MCIMX6Y2CVM08AB",
+        "MCIMX7D5EVM10SD",
+        "MIMX8ML4CVNKZAB",
+        "MIMX8ML8CVNKZAB",
+        "MIMX9352CVVXMAC",
+        "MPC5200CVR400BR2",
+        "MPC5200VR400B",
+        "MPC8247CVRTIEA",
+        "MPC8248CVRTIEA",
+        "MPC8270CZQMIBA",
+        "MPC8313CVRAFFC",
+        "PCA6408ABSHP",
+        "PCA6408AHKX",
+        "PCA6408APW,118",
+        "PCA9539D,118",
+        "PCA9554AD,112",
+        "PCA9554BBSHP",
+        "PCA9554PW/DG,118",
+        "PCA9556PW,118",
+        "PCA9570GMH",
+        "PCA9571GUX",
+        "PCA9574PW,112",
+        "PCA9670D,512",
+        "PCA9670PW,118",
+        "PCA9674APW,112",
+        "PCAL6408ABSHP",
+        "PCAL6408AEX1Z",
+        "PCAL6408AHKX",
+        "PCAL6408APWJ",
+        "PCAL6416AHF,128",
+        "PCAL6416APW,118",
+        "TDF8599CTH/N1,118",
+        "TFA9879HN/N1,118"
+      ],
+      "supplier_ids": [
+        "SUP002",
+        "SUP003",
+        "SUP004",
+        "SUP005",
+        "SUP009",
+        "SUP011",
+        "SUP014",
+        "SUP022",
+        "SUP027",
+        "SUP028",
+        "SUP030"
+      ]
+    },
+    "Diodes Incorporated": {
+      "canonical_id": "MFR:Diodes Incorporated",
+      "name": "Diodes Incorporated",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "PAM8301AAF",
+        "PAM8302AASCR",
+        "PAM8303CBSC",
+        "PAM8304ASR",
+        "PAM8403DRH",
+        "PAM8904JER",
+        "PI4IOE5V6408ZTAEX",
+        "PI4IOE5V6416LEX",
+        "PI4IOE5V6416ZDEX",
+        "PI4IOE5V9535ZDEX",
+        "PI4IOE5V9539ZDEX",
+        "PI4IOE5V9554ALEX"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP002",
+        "SUP009",
+        "SUP012",
+        "SUP018",
+        "SUP022",
+        "SUP024"
+      ]
+    },
+    "Monolithic Power Systems": {
+      "canonical_id": "MFR:Monolithic Power Systems",
+      "name": "Monolithic Power Systems",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "MP111DSLFZ",
+        "MP7740DNLFZ"
+      ],
+      "supplier_ids": [
+        "SUP009"
+      ]
+    },
+    "BridgeTek": {
+      "canonical_id": "MFR:BridgeTek",
+      "name": "BridgeTek",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "FT800QR",
+        "FT810QR",
+        "FT812QT",
+        "FT813QT"
+      ],
+      "supplier_ids": [
+        "SUP005",
+        "SUP007",
+        "SUP008"
+      ]
+    },
+    "Cirrus Logic": {
+      "canonical_id": "MFR:Cirrus Logic",
+      "name": "Cirrus Logic",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "CS5522ASZ",
+        "CS5529ASZ",
+        "CS5550KISZ",
+        "CS8416KCZZR"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP003",
+        "SUP009",
+        "SUP028"
+      ]
+    },
+    "Abracon LLC": {
+      "canonical_id": "MFR:Abracon LLC",
+      "name": "Abracon LLC",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "AB55703HCHCFLCT"
+      ],
+      "supplier_ids": [
+        "SUP019"
+      ]
+    },
+    "Semtech Corporation": {
+      "canonical_id": "MFR:Semtech Corporation",
+      "name": "Semtech Corporation",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "GS12090INE3",
+        "GS12090INTE3",
+        "GS12090INTE3Z",
+        "GS12141INE3",
+        "GS12181INTE3",
+        "GS12281INE3",
+        "GS12281INTE3",
+        "GS1661AIBE3",
+        "GS1671AIBE3",
+        "GS1672IBE3",
+        "GS1672IBTE3",
+        "GS1674INE3",
+        "GS1674INTE3",
+        "GS1678INE3",
+        "GS1678INTE3",
+        "GS2960IBE3",
+        "GS2961IBE3",
+        "GS2965INE3",
+        "GS2970IBE3",
+        "GS2984INE3",
+        "GS2984INTE3",
+        "GS2984INTE3Z",
+        "GS2985INE3",
+        "GS2985INTE3",
+        "GS2988INE3"
+      ],
+      "supplier_ids": [
+        "SUP005",
+        "SUP006",
+        "SUP011",
+        "SUP012",
+        "SUP013",
+        "SUP014",
+        "SUP015",
+        "SUP016",
+        "SUP017",
+        "SUP018",
+        "SUP019"
+      ]
+    },
+    "STMicroelectronics": {
+      "canonical_id": "MFR:STMicroelectronics",
+      "name": "STMicroelectronics",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "ST",
+        "STMicro"
+      ],
+      "mpns": [
+        "STA321MPLTR",
+        "STM32MP135FAE7",
+        "STM32MP157FAC1",
+        "STM32MP257FAI3",
+        "STM32MP257FAK3",
+        "STM8S003F3P6TR",
+        "STSAFA110DFSPL02",
+        "STSAFA110S8SPL02"
+      ],
+      "supplier_ids": [
+        "SUP002",
+        "SUP018",
+        "SUP019",
+        "SUP020",
+        "SUP024",
+        "SUP027",
+        "SUP029"
+      ]
+    },
+    "Lumissil Microsystems": {
+      "canonical_id": "MFR:Lumissil Microsystems",
+      "name": "Lumissil Microsystems",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "IS31AP2005DLS2TR"
+      ],
+      "supplier_ids": [
+        "SUP011"
+      ]
+    },
+    "Skyworks Solutions": {
+      "canonical_id": "MFR:Skyworks Solutions",
+      "name": "Skyworks Solutions",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "SI52111A1GT",
+        "SI52112B5GM2R",
+        "SI52112B6GM2",
+        "SI52202A01BGM",
+        "SI53102A2GMR",
+        "SI53102A3GMR",
+        "SI53152A01AGM",
+        "SI53154A01AGMR",
+        "SI5319CCGM",
+        "SI5324CCGM",
+        "SI5328BCGM",
+        "SI5338ABGM",
+        "SI5338ABGMR",
+        "SI5338BBGM",
+        "SI5338BBGMR",
+        "SI5338CBGM",
+        "SI5338CBGMR"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP002",
+        "SUP015",
+        "SUP016",
+        "SUP020",
+        "SUP026",
+        "SUP030"
+      ]
+    },
+    "Power Integrations": {
+      "canonical_id": "MFR:Power Integrations",
+      "name": "Power Integrations",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "CAP200DGTL"
+      ],
+      "supplier_ids": [
+        "SUP002"
+      ]
+    },
+    "Nisshinbo Micro Devices Inc.": {
+      "canonical_id": "MFR:Nisshinbo Micro Devices Inc.",
+      "name": "Nisshinbo Micro Devices Inc.",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "MUSES72323VTE1",
+        "NJM2113D",
+        "NJM2761RB2TE1",
+        "NJU72343VTE1",
+        "NJW1280MG2TE1"
+      ],
+      "supplier_ids": [
+        "SUP001",
+        "SUP011",
+        "SUP013",
+        "SUP024"
+      ]
+    },
+    "Raspberry Pi": {
+      "canonical_id": "MFR:Raspberry Pi",
+      "name": "Raspberry Pi",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "SC0914(13)"
+      ],
+      "supplier_ids": [
+        "SUP014"
+      ]
+    },
+    "Infineon Technologies": {
+      "canonical_id": "MFR:Infineon Technologies",
+      "name": "Infineon Technologies",
+      "entity_type": "MANUFACTURER",
+      "aliases": [
+        "Infineon"
+      ],
+      "mpns": [
+        "CY22313ZXC",
+        "CY28517ZXC"
+      ],
+      "supplier_ids": [
+        "SUP011"
+      ]
+    },
+    "XMOS": {
+      "canonical_id": "MFR:XMOS",
+      "name": "XMOS",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "XVF3800QF60BC"
+      ],
+      "supplier_ids": [
+        "SUP006"
+      ]
+    },
+    "Epson": {
+      "canonical_id": "MFR:Epson",
+      "name": "Epson",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "S1D13517F00A100"
+      ],
+      "supplier_ids": [
+        "SUP010"
+      ]
+    },
+    "Kinetic Technologies": {
+      "canonical_id": "MFR:Kinetic Technologies",
+      "name": "Kinetic Technologies",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "KTS1622EUAATR"
+      ],
+      "supplier_ids": [
+        "SUP006"
+      ]
+    },
+    "Nuvoton Technology Corporation": {
+      "canonical_id": "MFR:Nuvoton Technology Corporation",
+      "name": "Nuvoton Technology Corporation",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "NAU7802SGI"
+      ],
+      "supplier_ids": [
+        "SUP011"
+      ]
+    },
+    "MaxLinear": {
+      "canonical_id": "MFR:MaxLinear",
+      "name": "MaxLinear",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "XRA1201PIG24TRF"
+      ],
+      "supplier_ids": [
+        "SUP022"
+      ]
+    },
+    "Sanyo": {
+      "canonical_id": "MFR:Sanyo",
+      "name": "Sanyo",
+      "entity_type": "MANUFACTURER",
+      "aliases": [],
+      "mpns": [
+        "LV3328PMTLME"
+      ],
+      "supplier_ids": [
+        "SUP014"
+      ]
+    }
+  },
+  "components": {
+    "PIC16F15245TI/SS": {
+      "canonical_id": "MPN:PIC16F15245TI/SS",
+      "name": "PIC16F15245TI/SS",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "MCP3008TI/SL": {
+      "canonical_id": "MPN:MCP3008TI/SL",
+      "name": "MCP3008TI/SL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "LM384N/NOPB": {
+      "canonical_id": "MPN:LM384N/NOPB",
+      "name": "LM384N/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP012"
+    },
+    "PCM2706CPJTR": {
+      "canonical_id": "MPN:PCM2706CPJTR",
+      "name": "PCM2706CPJTR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP027"
+    },
+    "MAX22191AUT+T": {
+      "canonical_id": "MPN:MAX22191AUT+T",
+      "name": "MAX22191AUT+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP001"
+    },
+    "LMH0302SQE/NOPB": {
+      "canonical_id": "MPN:LMH0302SQE/NOPB",
+      "name": "LMH0302SQE/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP011"
+    },
+    "9FGL0251BKILF": {
+      "canonical_id": "MPN:9FGL0251BKILF",
+      "name": "9FGL0251BKILF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP001"
+    },
+    "TPA2013D1RGPR": {
+      "canonical_id": "MPN:TPA2013D1RGPR",
+      "name": "TPA2013D1RGPR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP022"
+    },
+    "MAX9406ETJ+": {
+      "canonical_id": "MPN:MAX9406ETJ+",
+      "name": "MAX9406ETJ+",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "video_processing",
+      "supplier_id": "SUP001"
+    },
+    "ADS774HIBDWR": {
+      "canonical_id": "MPN:ADS774HIBDWR",
+      "name": "ADS774HIBDWR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP027"
+    },
+    "AD95231BCPZ": {
+      "canonical_id": "MPN:AD95231BCPZ",
+      "name": "AD95231BCPZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP014"
+    },
+    "LA7837E": {
+      "canonical_id": "MPN:LA7837E",
+      "name": "LA7837E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP014"
+    },
+    "TCAN4551RGYRQ1": {
+      "canonical_id": "MPN:TCAN4551RGYRQ1",
+      "name": "TCAN4551RGYRQ1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "SM750KE160000AC": {
+      "canonical_id": "MPN:SM750KE160000AC",
+      "name": "SM750KE160000AC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Silicon Motion",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP004"
+    },
+    "PCA9670D,512": {
+      "canonical_id": "MPN:PCA9670D,512",
+      "name": "PCA9670D,512",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "PI4IOE5V6408ZTAEX": {
+      "canonical_id": "MPN:PI4IOE5V6408ZTAEX",
+      "name": "PI4IOE5V6408ZTAEX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP022"
+    },
+    "MCIMX287CVM4B": {
+      "canonical_id": "MPN:MCIMX287CVM4B",
+      "name": "MCIMX287CVM4B",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP027"
+    },
+    "SRC4392IPFBR": {
+      "canonical_id": "MPN:SRC4392IPFBR",
+      "name": "SRC4392IPFBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP006"
+    },
+    "ATECC608BMAHDAT": {
+      "canonical_id": "MPN:ATECC608BMAHDAT",
+      "name": "ATECC608BMAHDAT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "OMAPL138EZWTA3": {
+      "canonical_id": "MPN:OMAPL138EZWTA3",
+      "name": "OMAPL138EZWTA3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP027"
+    },
+    "ATTINY202SSFR": {
+      "canonical_id": "MPN:ATTINY202SSFR",
+      "name": "ATTINY202SSFR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "PI4IOE5V6416ZDEX": {
+      "canonical_id": "MPN:PI4IOE5V6416ZDEX",
+      "name": "PI4IOE5V6416ZDEX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP018"
+    },
+    "LMKDB1102REYT": {
+      "canonical_id": "MPN:LMKDB1102REYT",
+      "name": "LMKDB1102REYT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP012"
+    },
+    "MP111DSLFZ": {
+      "canonical_id": "MPN:MP111DSLFZ",
+      "name": "MP111DSLFZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Monolithic Power Systems",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "PCA9539PWR": {
+      "canonical_id": "MPN:PCA9539PWR",
+      "name": "PCA9539PWR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "DRV134PA": {
+      "canonical_id": "MPN:DRV134PA",
+      "name": "DRV134PA",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "FT813QT": {
+      "canonical_id": "MPN:FT813QT",
+      "name": "FT813QT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "BridgeTek",
+      "category_name": "video_processing",
+      "supplier_id": "SUP008"
+    },
+    "CS8416KCZZR": {
+      "canonical_id": "MPN:CS8416KCZZR",
+      "name": "CS8416KCZZR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP001"
+    },
+    "DS2411R+T&R": {
+      "canonical_id": "MPN:DS2411R+T&R",
+      "name": "DS2411R+T&R",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "LMH1981MTX/NOPB": {
+      "canonical_id": "MPN:LMH1981MTX/NOPB",
+      "name": "LMH1981MTX/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "MCP3208CI/SL": {
+      "canonical_id": "MPN:MCP3208CI/SL",
+      "name": "MCP3208CI/SL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP001"
+    },
+    "ADS7882IPFBR": {
+      "canonical_id": "MPN:ADS7882IPFBR",
+      "name": "ADS7882IPFBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "AB55703HCHCFLCT": {
+      "canonical_id": "MPN:AB55703HCHCFLCT",
+      "name": "AB55703HCHCFLCT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Abracon LLC",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP019"
+    },
+    "GS1674INTE3": {
+      "canonical_id": "MPN:GS1674INTE3",
+      "name": "GS1674INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP005"
+    },
+    "TPA2005D1DRBR": {
+      "canonical_id": "MPN:TPA2005D1DRBR",
+      "name": "TPA2005D1DRBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "PCA6408AHKX": {
+      "canonical_id": "MPN:PCA6408AHKX",
+      "name": "PCA6408AHKX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP022"
+    },
+    "ATSHA204ASSHDAT": {
+      "canonical_id": "MPN:ATSHA204ASSHDAT",
+      "name": "ATSHA204ASSHDAT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP021"
+    },
+    "PCA9554BBSHP": {
+      "canonical_id": "MPN:PCA9554BBSHP",
+      "name": "PCA9554BBSHP",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP009"
+    },
+    "FT810QR": {
+      "canonical_id": "MPN:FT810QR",
+      "name": "FT810QR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "BridgeTek",
+      "category_name": "video_processing",
+      "supplier_id": "SUP007"
+    },
+    "MCP3221A5TE/OT": {
+      "canonical_id": "MPN:MCP3221A5TE/OT",
+      "name": "MCP3221A5TE/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP003"
+    },
+    "STM32MP157FAC1": {
+      "canonical_id": "MPN:STM32MP157FAC1",
+      "name": "STM32MP157FAC1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP027"
+    },
+    "IS31AP2005DLS2TR": {
+      "canonical_id": "MPN:IS31AP2005DLS2TR",
+      "name": "IS31AP2005DLS2TR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Lumissil Microsystems",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP011"
+    },
+    "SM768GE0B0000AB": {
+      "canonical_id": "MPN:SM768GE0B0000AB",
+      "name": "SM768GE0B0000AB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Silicon Motion",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP001"
+    },
+    "JLC1562BN": {
+      "canonical_id": "MPN:JLC1562BN",
+      "name": "JLC1562BN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "TWL1110PBSR": {
+      "canonical_id": "MPN:TWL1110PBSR",
+      "name": "TWL1110PBSR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP003"
+    },
+    "SI52202A01BGM": {
+      "canonical_id": "MPN:SI52202A01BGM",
+      "name": "SI52202A01BGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP026"
+    },
+    "MCP3004TI/ST": {
+      "canonical_id": "MPN:MCP3004TI/ST",
+      "name": "MCP3004TI/ST",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP024"
+    },
+    "MCP3204TCI/SL": {
+      "canonical_id": "MPN:MCP3204TCI/SL",
+      "name": "MCP3204TCI/SL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP020"
+    },
+    "MCP3461RTE/NC": {
+      "canonical_id": "MPN:MCP3461RTE/NC",
+      "name": "MCP3461RTE/NC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "GS2984INE3": {
+      "canonical_id": "MPN:GS2984INE3",
+      "name": "GS2984INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP006"
+    },
+    "DS28E50Q+T": {
+      "canonical_id": "MPN:DS28E50Q+T",
+      "name": "DS28E50Q+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP001"
+    },
+    "MPC8248CVRTIEA": {
+      "canonical_id": "MPN:MPC8248CVRTIEA",
+      "name": "MPC8248CVRTIEA",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "ATTINY414SSFR": {
+      "canonical_id": "MPN:ATTINY414SSFR",
+      "name": "ATTINY414SSFR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "SAM9X60D1GI/LZB": {
+      "canonical_id": "MPN:SAM9X60D1GI/LZB",
+      "name": "SAM9X60D1GI/LZB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP020"
+    },
+    "SI5338ABGM": {
+      "canonical_id": "MPN:SI5338ABGM",
+      "name": "SI5338ABGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "PIC16F15223TI/SL": {
+      "canonical_id": "MPN:PIC16F15223TI/SL",
+      "name": "PIC16F15223TI/SL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "STM32MP257FAI3": {
+      "canonical_id": "MPN:STM32MP257FAI3",
+      "name": "STM32MP257FAI3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP020"
+    },
+    "STA321MPLTR": {
+      "canonical_id": "MPN:STA321MPLTR",
+      "name": "STA321MPLTR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP002"
+    },
+    "ATECC608BMAHDAS": {
+      "canonical_id": "MPN:ATECC608BMAHDAS",
+      "name": "ATECC608BMAHDAS",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "6V49205BNLGI": {
+      "canonical_id": "MPN:6V49205BNLGI",
+      "name": "6V49205BNLGI",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP006"
+    },
+    "EQCO62X20C1I/3DW": {
+      "canonical_id": "MPN:EQCO62X20C1I/3DW",
+      "name": "EQCO62X20C1I/3DW",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "ADS7817EB": {
+      "canonical_id": "MPN:ADS7817EB",
+      "name": "ADS7817EB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "LMKDB1202REYR": {
+      "canonical_id": "MPN:LMKDB1202REYR",
+      "name": "LMKDB1202REYR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP012"
+    },
+    "EQCO30T5.2": {
+      "canonical_id": "MPN:EQCO30T5.2",
+      "name": "EQCO30T5.2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "SI5338CBGM": {
+      "canonical_id": "MPN:SI5338CBGM",
+      "name": "SI5338CBGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP015"
+    },
+    "TPA3111D1PWPR": {
+      "canonical_id": "MPN:TPA3111D1PWPR",
+      "name": "TPA3111D1PWPR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP024"
+    },
+    "9FGV0241AKILFT": {
+      "canonical_id": "MPN:9FGV0241AKILFT",
+      "name": "9FGV0241AKILFT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP009"
+    },
+    "ATTINY202SSNR": {
+      "canonical_id": "MPN:ATTINY202SSNR",
+      "name": "ATTINY202SSNR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP020"
+    },
+    "CAP200DGTL": {
+      "canonical_id": "MPN:CAP200DGTL",
+      "name": "CAP200DGTL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Power Integrations",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP002"
+    },
+    "9SQL4958BNDGI8": {
+      "canonical_id": "MPN:9SQL4958BNDGI8",
+      "name": "9SQL4958BNDGI8",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "SA575DTBR2G": {
+      "canonical_id": "MPN:SA575DTBR2G",
+      "name": "SA575DTBR2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP028"
+    },
+    "R7S921040VCBG#BC0": {
+      "canonical_id": "MPN:R7S921040VCBG#BC0",
+      "name": "R7S921040VCBG#BC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "GS2988INE3": {
+      "canonical_id": "MPN:GS2988INE3",
+      "name": "GS2988INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP012"
+    },
+    "PCM9211PTR": {
+      "canonical_id": "MPN:PCM9211PTR",
+      "name": "PCM9211PTR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP012"
+    },
+    "MCP3201CI/SN": {
+      "canonical_id": "MPN:MCP3201CI/SN",
+      "name": "MCP3201CI/SN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP020"
+    },
+    "MCP23008TE/SO": {
+      "canonical_id": "MPN:MCP23008TE/SO",
+      "name": "MCP23008TE/SO",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP022"
+    },
+    "ATSHA204AMAHDAT": {
+      "canonical_id": "MPN:ATSHA204AMAHDAT",
+      "name": "ATSHA204AMAHDAT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP020"
+    },
+    "NJW1280MG2TE1": {
+      "canonical_id": "MPN:NJW1280MG2TE1",
+      "name": "NJW1280MG2TE1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Nisshinbo Micro Devices Inc.",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP001"
+    },
+    "SN104938DR": {
+      "canonical_id": "MPN:SN104938DR",
+      "name": "SN104938DR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP004"
+    },
+    "M61538FP#DF0G": {
+      "canonical_id": "MPN:M61538FP#DF0G",
+      "name": "M61538FP#DF0G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP002"
+    },
+    "PCAL6416APW,118": {
+      "canonical_id": "MPN:PCAL6416APW,118",
+      "name": "PCAL6416APW,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "PCA9670PW,118": {
+      "canonical_id": "MPN:PCA9670PW,118",
+      "name": "PCA9670PW,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "FXL6408UMX": {
+      "canonical_id": "MPN:FXL6408UMX",
+      "name": "FXL6408UMX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP019"
+    },
+    "MAX4886ETO+": {
+      "canonical_id": "MPN:MAX4886ETO+",
+      "name": "MAX4886ETO+",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "video_processing",
+      "supplier_id": "SUP001"
+    },
+    "GS2970IBE3": {
+      "canonical_id": "MPN:GS2970IBE3",
+      "name": "GS2970IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP013"
+    },
+    "SN65DP159RGZR": {
+      "canonical_id": "MPN:SN65DP159RGZR",
+      "name": "SN65DP159RGZR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP006"
+    },
+    "MCIMX353DJQ5C": {
+      "canonical_id": "MPN:MCIMX353DJQ5C",
+      "name": "MCIMX353DJQ5C",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP009"
+    },
+    "MCP23008TE/ML": {
+      "canonical_id": "MPN:MCP23008TE/ML",
+      "name": "MCP23008TE/ML",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP004"
+    },
+    "MCP3221A0TE/OT": {
+      "canonical_id": "MPN:MCP3221A0TE/OT",
+      "name": "MCP3221A0TE/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "MCIMX6Y2CVM08AB": {
+      "canonical_id": "MPN:MCIMX6Y2CVM08AB",
+      "name": "MCIMX6Y2CVM08AB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP011"
+    },
+    "SC0914(13)": {
+      "canonical_id": "MPN:SC0914(13)",
+      "name": "SC0914(13)",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Raspberry Pi",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP014"
+    },
+    "LM386MM1": {
+      "canonical_id": "MPN:LM386MM1",
+      "name": "LM386MM1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "STM32MP135FAE7": {
+      "canonical_id": "MPN:STM32MP135FAE7",
+      "name": "STM32MP135FAE7",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP018"
+    },
+    "LMH0397RTVR": {
+      "canonical_id": "MPN:LMH0397RTVR",
+      "name": "LMH0397RTVR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP003"
+    },
+    "STSAFA110DFSPL02": {
+      "canonical_id": "MPN:STSAFA110DFSPL02",
+      "name": "STSAFA110DFSPL02",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP019"
+    },
+    "ADC121C021CIMM/NOPB": {
+      "canonical_id": "MPN:ADC121C021CIMM/NOPB",
+      "name": "ADC121C021CIMM/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "DIX9211PTR": {
+      "canonical_id": "MPN:DIX9211PTR",
+      "name": "DIX9211PTR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP003"
+    },
+    "CY28517ZXC": {
+      "canonical_id": "MPN:CY28517ZXC",
+      "name": "CY28517ZXC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Infineon Technologies",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP011"
+    },
+    "SI52112B6GM2": {
+      "canonical_id": "MPN:SI52112B6GM2",
+      "name": "SI52112B6GM2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP026"
+    },
+    "TCAN4550RGYRQ1": {
+      "canonical_id": "MPN:TCAN4550RGYRQ1",
+      "name": "TCAN4550RGYRQ1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP002"
+    },
+    "JLC1562BFG": {
+      "canonical_id": "MPN:JLC1562BFG",
+      "name": "JLC1562BFG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "MCP3204TCI/ST": {
+      "canonical_id": "MPN:MCP3204TCI/ST",
+      "name": "MCP3204TCI/ST",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP020"
+    },
+    "MCIMX6S5DVM10AB": {
+      "canonical_id": "MPN:MCIMX6S5DVM10AB",
+      "name": "MCIMX6S5DVM10AB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "GS1661AIBE3": {
+      "canonical_id": "MPN:GS1661AIBE3",
+      "name": "GS1661AIBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP015"
+    },
+    "SI5338BBGMR": {
+      "canonical_id": "MPN:SI5338BBGMR",
+      "name": "SI5338BBGMR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP015"
+    },
+    "842S104EGLF": {
+      "canonical_id": "MPN:842S104EGLF",
+      "name": "842S104EGLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "SN65DPHY440SSRHRR": {
+      "canonical_id": "MPN:SN65DPHY440SSRHRR",
+      "name": "SN65DPHY440SSRHRR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP003"
+    },
+    "PIC12F508I/SN": {
+      "canonical_id": "MPN:PIC12F508I/SN",
+      "name": "PIC12F508I/SN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP022"
+    },
+    "HA4201CB96": {
+      "canonical_id": "MPN:HA4201CB96",
+      "name": "HA4201CB96",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP014"
+    },
+    "R7S921042VCBG#AC0": {
+      "canonical_id": "MPN:R7S921042VCBG#AC0",
+      "name": "R7S921042VCBG#AC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP013"
+    },
+    "MCP3004I/SL": {
+      "canonical_id": "MPN:MCP3004I/SL",
+      "name": "MCP3004I/SL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "MCIMX6Q5EYM10AC": {
+      "canonical_id": "MPN:MCIMX6Q5EYM10AC",
+      "name": "MCIMX6Q5EYM10AC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP014"
+    },
+    "JLC1562BF": {
+      "canonical_id": "MPN:JLC1562BF",
+      "name": "JLC1562BF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "LM4890MX/NOPB": {
+      "canonical_id": "MPN:LM4890MX/NOPB",
+      "name": "LM4890MX/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP018"
+    },
+    "ATTINY402SSNR": {
+      "canonical_id": "MPN:ATTINY402SSNR",
+      "name": "ATTINY402SSNR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP020"
+    },
+    "ADC101S051CIMF": {
+      "canonical_id": "MPN:ADC101S051CIMF",
+      "name": "ADC101S051CIMF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP014"
+    },
+    "ADS7834E/2K5": {
+      "canonical_id": "MPN:ADS7834E/2K5",
+      "name": "ADS7834E/2K5",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "AM3352BZCZ100": {
+      "canonical_id": "MPN:AM3352BZCZ100",
+      "name": "AM3352BZCZ100",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP027"
+    },
+    "MIMX8ML4CVNKZAB": {
+      "canonical_id": "MPN:MIMX8ML4CVNKZAB",
+      "name": "MIMX8ML4CVNKZAB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP003"
+    },
+    "AM6254ATCGGAALW": {
+      "canonical_id": "MPN:AM6254ATCGGAALW",
+      "name": "AM6254ATCGGAALW",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP015"
+    },
+    "XVF3800QF60BC": {
+      "canonical_id": "MPN:XVF3800QF60BC",
+      "name": "XVF3800QF60BC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "XMOS",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP006"
+    },
+    "TCA6408ARGTR": {
+      "canonical_id": "MPN:TCA6408ARGTR",
+      "name": "TCA6408ARGTR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "S1D13517F00A100": {
+      "canonical_id": "MPN:S1D13517F00A100",
+      "name": "S1D13517F00A100",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Epson",
+      "category_name": "video_processing",
+      "supplier_id": "SUP010"
+    },
+    "AM3352BZCZ60": {
+      "canonical_id": "MPN:AM3352BZCZ60",
+      "name": "AM3352BZCZ60",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP027"
+    },
+    "ATECC608AMAHDAS": {
+      "canonical_id": "MPN:ATECC608AMAHDAS",
+      "name": "ATECC608AMAHDAS",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP002"
+    },
+    "PI4IOE5V6416LEX": {
+      "canonical_id": "MPN:PI4IOE5V6416LEX",
+      "name": "PI4IOE5V6416LEX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP001"
+    },
+    "ADC10662CIWMX": {
+      "canonical_id": "MPN:ADC10662CIWMX",
+      "name": "ADC10662CIWMX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP014"
+    },
+    "ATSAMA5D27CD1GCUR": {
+      "canonical_id": "MPN:ATSAMA5D27CD1GCUR",
+      "name": "ATSAMA5D27CD1GCUR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "TPA2006D1DRBR": {
+      "canonical_id": "MPN:TPA2006D1DRBR",
+      "name": "TPA2006D1DRBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "DSC5570344FL1T": {
+      "canonical_id": "MPN:DSC5570344FL1T",
+      "name": "DSC5570344FL1T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP003"
+    },
+    "PCA9554PW/DG,118": {
+      "canonical_id": "MPN:PCA9554PW/DG,118",
+      "name": "PCA9554PW/DG,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "GS2965INE3": {
+      "canonical_id": "MPN:GS2965INE3",
+      "name": "GS2965INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP015"
+    },
+    "SI5319CCGM": {
+      "canonical_id": "MPN:SI5319CCGM",
+      "name": "SI5319CCGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP026"
+    },
+    "MPC5200CVR400BR2": {
+      "canonical_id": "MPN:MPC5200CVR400BR2",
+      "name": "MPC5200CVR400BR2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "FT812QT": {
+      "canonical_id": "MPN:FT812QT",
+      "name": "FT812QT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "BridgeTek",
+      "category_name": "video_processing",
+      "supplier_id": "SUP005"
+    },
+    "DRV135UA/2K5": {
+      "canonical_id": "MPN:DRV135UA/2K5",
+      "name": "DRV135UA/2K5",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP027"
+    },
+    "TPA6205A1DRBR": {
+      "canonical_id": "MPN:TPA6205A1DRBR",
+      "name": "TPA6205A1DRBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "AD8195ACPZR7": {
+      "canonical_id": "MPN:AD8195ACPZR7",
+      "name": "AD8195ACPZR7",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "video_processing",
+      "supplier_id": "SUP004"
+    },
+    "PCA9555PWR": {
+      "canonical_id": "MPN:PCA9555PWR",
+      "name": "PCA9555PWR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP027"
+    },
+    "MC44BS374T1EFR2": {
+      "canonical_id": "MPN:MC44BS374T1EFR2",
+      "name": "MC44BS374T1EFR2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP011"
+    },
+    "LM1972MX/NOPB": {
+      "canonical_id": "MPN:LM1972MX/NOPB",
+      "name": "LM1972MX/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "A5000R2HQ1/Z016UZ": {
+      "canonical_id": "MPN:A5000R2HQ1/Z016UZ",
+      "name": "A5000R2HQ1/Z016UZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "LM386N1/NOPB": {
+      "canonical_id": "MPN:LM386N1/NOPB",
+      "name": "LM386N1/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP010"
+    },
+    "PIC10F322TI/OT": {
+      "canonical_id": "MPN:PIC10F322TI/OT",
+      "name": "PIC10F322TI/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP011"
+    },
+    "PIC16F15213I/SN": {
+      "canonical_id": "MPN:PIC16F15213I/SN",
+      "name": "PIC16F15213I/SN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP020"
+    },
+    "FMS6151L6X": {
+      "canonical_id": "MPN:FMS6151L6X",
+      "name": "FMS6151L6X",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "video_processing",
+      "supplier_id": "SUP016"
+    },
+    "MCP3425A0TE/CH": {
+      "canonical_id": "MPN:MCP3425A0TE/CH",
+      "name": "MCP3425A0TE/CH",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "MCP3021A0TE/OT": {
+      "canonical_id": "MPN:MCP3021A0TE/OT",
+      "name": "MCP3021A0TE/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "AM3352BZCZD80": {
+      "canonical_id": "MPN:AM3352BZCZD80",
+      "name": "AM3352BZCZD80",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP027"
+    },
+    "PAM8304ASR": {
+      "canonical_id": "MPN:PAM8304ASR",
+      "name": "PAM8304ASR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP012"
+    },
+    "LC75410WSE": {
+      "canonical_id": "MPN:LC75410WSE",
+      "name": "LC75410WSE",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP009"
+    },
+    "CAT9554AYIGT2": {
+      "canonical_id": "MPN:CAT9554AYIGT2",
+      "name": "CAT9554AYIGT2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "GS1678INTE3": {
+      "canonical_id": "MPN:GS1678INTE3",
+      "name": "GS1678INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP017"
+    },
+    "MCP3221A5TI/OT": {
+      "canonical_id": "MPN:MCP3221A5TI/OT",
+      "name": "MCP3221A5TI/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP007"
+    },
+    "R7S921047VCBG#BC0": {
+      "canonical_id": "MPN:R7S921047VCBG#BC0",
+      "name": "R7S921047VCBG#BC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP020"
+    },
+    "ATTINY10TS8R": {
+      "canonical_id": "MPN:ATTINY10TS8R",
+      "name": "ATTINY10TS8R",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP020"
+    },
+    "TPA3113D2PWPR": {
+      "canonical_id": "MPN:TPA3113D2PWPR",
+      "name": "TPA3113D2PWPR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP011"
+    },
+    "LMK00334RTVRQ1": {
+      "canonical_id": "MPN:LMK00334RTVRQ1",
+      "name": "LMK00334RTVRQ1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP003"
+    },
+    "NJU72343VTE1": {
+      "canonical_id": "MPN:NJU72343VTE1",
+      "name": "NJU72343VTE1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Nisshinbo Micro Devices Inc.",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP011"
+    },
+    "GS12281INTE3": {
+      "canonical_id": "MPN:GS12281INTE3",
+      "name": "GS12281INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP006"
+    },
+    "STSAFA110S8SPL02": {
+      "canonical_id": "MPN:STSAFA110S8SPL02",
+      "name": "STSAFA110S8SPL02",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP024"
+    },
+    "GS12090INE3": {
+      "canonical_id": "MPN:GS12090INE3",
+      "name": "GS12090INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP019"
+    },
+    "TAS5010IPFBR": {
+      "canonical_id": "MPN:TAS5010IPFBR",
+      "name": "TAS5010IPFBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP002"
+    },
+    "DIR9001PWR": {
+      "canonical_id": "MPN:DIR9001PWR",
+      "name": "DIR9001PWR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "LED173048RSLR": {
+      "canonical_id": "MPN:LED173048RSLR",
+      "name": "LED173048RSLR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "AT91SAM9G20BCU": {
+      "canonical_id": "MPN:AT91SAM9G20BCU",
+      "name": "AT91SAM9G20BCU",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP006"
+    },
+    "MAX4364ESA+": {
+      "canonical_id": "MPN:MAX4364ESA+",
+      "name": "MAX4364ESA+",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP001"
+    },
+    "82P33731ABAG": {
+      "canonical_id": "MPN:82P33731ABAG",
+      "name": "82P33731ABAG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP006"
+    },
+    "PAM8302AASCR": {
+      "canonical_id": "MPN:PAM8302AASCR",
+      "name": "PAM8302AASCR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "FAN3852UC16X": {
+      "canonical_id": "MPN:FAN3852UC16X",
+      "name": "FAN3852UC16X",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "GS2960IBE3": {
+      "canonical_id": "MPN:GS2960IBE3",
+      "name": "GS2960IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP016"
+    },
+    "MIMX9352CVVXMAC": {
+      "canonical_id": "MPN:MIMX9352CVVXMAC",
+      "name": "MIMX9352CVVXMAC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP028"
+    },
+    "ADC08831IWMX": {
+      "canonical_id": "MPN:ADC08831IWMX",
+      "name": "ADC08831IWMX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP014"
+    },
+    "PIC12F1571TI/SN": {
+      "canonical_id": "MPN:PIC12F1571TI/SN",
+      "name": "PIC12F1571TI/SN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "SA572DR2G": {
+      "canonical_id": "MPN:SA572DR2G",
+      "name": "SA572DR2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP026"
+    },
+    "SI53154A01AGMR": {
+      "canonical_id": "MPN:SI53154A01AGMR",
+      "name": "SI53154A01AGMR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP026"
+    },
+    "LM1971MX/NOPB": {
+      "canonical_id": "MPN:LM1971MX/NOPB",
+      "name": "LM1971MX/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "DS2401+": {
+      "canonical_id": "MPN:DS2401+",
+      "name": "DS2401+",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP011"
+    },
+    "TPA3118D2DAPR": {
+      "canonical_id": "MPN:TPA3118D2DAPR",
+      "name": "TPA3118D2DAPR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP022"
+    },
+    "INA1650IPWR": {
+      "canonical_id": "MPN:INA1650IPWR",
+      "name": "INA1650IPWR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "DS28CM00RA00+T": {
+      "canonical_id": "MPN:DS28CM00RA00+T",
+      "name": "DS28CM00RA00+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "MCP3008I/SL": {
+      "canonical_id": "MPN:MCP3008I/SL",
+      "name": "MCP3008I/SL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP022"
+    },
+    "ADC101C027CIMK/NOPB": {
+      "canonical_id": "MPN:ADC101C027CIMK/NOPB",
+      "name": "ADC101C027CIMK/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "ATTINY412SSFR": {
+      "canonical_id": "MPN:ATTINY412SSFR",
+      "name": "ATTINY412SSFR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "ADC121S021CIMFX/NOPB": {
+      "canonical_id": "MPN:ADC121S021CIMFX/NOPB",
+      "name": "ADC121S021CIMFX/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP003"
+    },
+    "ADS8324E/250": {
+      "canonical_id": "MPN:ADS8324E/250",
+      "name": "ADS8324E/250",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP027"
+    },
+    "ADS7834EB/2K5": {
+      "canonical_id": "MPN:ADS7834EB/2K5",
+      "name": "ADS7834EB/2K5",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "9FGP304BKILF": {
+      "canonical_id": "MPN:9FGP304BKILF",
+      "name": "9FGP304BKILF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "PIC10F202TI/OT": {
+      "canonical_id": "MPN:PIC10F202TI/OT",
+      "name": "PIC10F202TI/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP004"
+    },
+    "ADN2816ACPZ": {
+      "canonical_id": "MPN:ADN2816ACPZ",
+      "name": "ADN2816ACPZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP027"
+    },
+    "MCIMX357CJQ5C": {
+      "canonical_id": "MPN:MCIMX357CJQ5C",
+      "name": "MCIMX357CJQ5C",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP003"
+    },
+    "TAS3002PFB": {
+      "canonical_id": "MPN:TAS3002PFB",
+      "name": "TAS3002PFB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP027"
+    },
+    "TLA2024IRUGT": {
+      "canonical_id": "MPN:TLA2024IRUGT",
+      "name": "TLA2024IRUGT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP009"
+    },
+    "MAX4468EKA+T": {
+      "canonical_id": "MPN:MAX4468EKA+T",
+      "name": "MAX4468EKA+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP001"
+    },
+    "MUSES72323VTE1": {
+      "canonical_id": "MPN:MUSES72323VTE1",
+      "name": "MUSES72323VTE1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Nisshinbo Micro Devices Inc.",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP001"
+    },
+    "ADC08161CIWM": {
+      "canonical_id": "MPN:ADC08161CIWM",
+      "name": "ADC08161CIWM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "MAX4364ESA+T": {
+      "canonical_id": "MPN:MAX4364ESA+T",
+      "name": "MAX4364ESA+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP001"
+    },
+    "TPA6130A2RTJR": {
+      "canonical_id": "MPN:TPA6130A2RTJR",
+      "name": "TPA6130A2RTJR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP022"
+    },
+    "SI5338CBGMR": {
+      "canonical_id": "MPN:SI5338CBGMR",
+      "name": "SI5338CBGMR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP001"
+    },
+    "CY22313ZXC": {
+      "canonical_id": "MPN:CY22313ZXC",
+      "name": "CY22313ZXC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Infineon Technologies",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP011"
+    },
+    "SI52112B5GM2R": {
+      "canonical_id": "MPN:SI52112B5GM2R",
+      "name": "SI52112B5GM2R",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP001"
+    },
+    "ADC081C027CIMK/NOPB": {
+      "canonical_id": "MPN:ADC081C027CIMK/NOPB",
+      "name": "ADC081C027CIMK/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "PIC10F200TI/OT": {
+      "canonical_id": "MPN:PIC10F200TI/OT",
+      "name": "PIC10F200TI/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP004"
+    },
+    "ADAU7002ACBZR7": {
+      "canonical_id": "MPN:ADAU7002ACBZR7",
+      "name": "ADAU7002ACBZR7",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "PCAL6408ABSHP": {
+      "canonical_id": "MPN:PCAL6408ABSHP",
+      "name": "PCAL6408ABSHP",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "AM6254ATCGHAALW": {
+      "canonical_id": "MPN:AM6254ATCGHAALW",
+      "name": "AM6254ATCGHAALW",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP004"
+    },
+    "LMH1980MM/NOPB": {
+      "canonical_id": "MPN:LMH1980MM/NOPB",
+      "name": "LMH1980MM/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "SI5338BBGM": {
+      "canonical_id": "MPN:SI5338BBGM",
+      "name": "SI5338BBGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP020"
+    },
+    "ATSHA204ASTUCZT": {
+      "canonical_id": "MPN:ATSHA204ASTUCZT",
+      "name": "ATSHA204ASTUCZT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP022"
+    },
+    "PCA9556PW,118": {
+      "canonical_id": "MPN:PCA9556PW,118",
+      "name": "PCA9556PW,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "LC898229XIMH": {
+      "canonical_id": "MPN:LC898229XIMH",
+      "name": "LC898229XIMH",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP026"
+    },
+    "GS12181INTE3": {
+      "canonical_id": "MPN:GS12181INTE3",
+      "name": "GS12181INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP005"
+    },
+    "PCA9554AD,112": {
+      "canonical_id": "MPN:PCA9554AD,112",
+      "name": "PCA9554AD,112",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "LC75343MTLME": {
+      "canonical_id": "MPN:LC75343MTLME",
+      "name": "LC75343MTLME",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP011"
+    },
+    "ADC101S021CIMFX": {
+      "canonical_id": "MPN:ADC101S021CIMFX",
+      "name": "ADC101S021CIMFX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP026"
+    },
+    "NTC6416ANLTS1": {
+      "canonical_id": "MPN:NTC6416ANLTS1",
+      "name": "NTC6416ANLTS1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP001"
+    },
+    "KTS1622EUAATR": {
+      "canonical_id": "MPN:KTS1622EUAATR",
+      "name": "KTS1622EUAATR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Kinetic Technologies",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP006"
+    },
+    "GS12281INE3": {
+      "canonical_id": "MPN:GS12281INE3",
+      "name": "GS12281INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP012"
+    },
+    "STM8S003F3P6TR": {
+      "canonical_id": "MPN:STM8S003F3P6TR",
+      "name": "STM8S003F3P6TR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "LC75348MTLME": {
+      "canonical_id": "MPN:LC75348MTLME",
+      "name": "LC75348MTLME",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP004"
+    },
+    "MP7740DNLFZ": {
+      "canonical_id": "MPN:MP7740DNLFZ",
+      "name": "MP7740DNLFZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Monolithic Power Systems",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "NJM2113D": {
+      "canonical_id": "MPN:NJM2113D",
+      "name": "NJM2113D",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Nisshinbo Micro Devices Inc.",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP013"
+    },
+    "TWL1101PFBR": {
+      "canonical_id": "MPN:TWL1101PFBR",
+      "name": "TWL1101PFBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP007"
+    },
+    "PIC12F1572TI/SN": {
+      "canonical_id": "MPN:PIC12F1572TI/SN",
+      "name": "PIC12F1572TI/SN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP005"
+    },
+    "NCP2892BFCT2G": {
+      "canonical_id": "MPN:NCP2892BFCT2G",
+      "name": "NCP2892BFCT2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "82P33914NLG": {
+      "canonical_id": "MPN:82P33914NLG",
+      "name": "82P33914NLG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "LM4861MX/NOPB": {
+      "canonical_id": "MPN:LM4861MX/NOPB",
+      "name": "LM4861MX/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP011"
+    },
+    "MCP23008E/SO": {
+      "canonical_id": "MPN:MCP23008E/SO",
+      "name": "MCP23008E/SO",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP009"
+    },
+    "GS2984INTE3Z": {
+      "canonical_id": "MPN:GS2984INTE3Z",
+      "name": "GS2984INTE3Z",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP018"
+    },
+    "PCA9570GMH": {
+      "canonical_id": "MPN:PCA9570GMH",
+      "name": "PCA9570GMH",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP009"
+    },
+    "PIC10F222TI/OT": {
+      "canonical_id": "MPN:PIC10F222TI/OT",
+      "name": "PIC10F222TI/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP012"
+    },
+    "NJM2761RB2TE1": {
+      "canonical_id": "MPN:NJM2761RB2TE1",
+      "name": "NJM2761RB2TE1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Nisshinbo Micro Devices Inc.",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP024"
+    },
+    "954120EFLF": {
+      "canonical_id": "MPN:954120EFLF",
+      "name": "954120EFLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "LMH1981MT/NOPB": {
+      "canonical_id": "MPN:LMH1981MT/NOPB",
+      "name": "LMH1981MT/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "DRV134UA/1K": {
+      "canonical_id": "MPN:DRV134UA/1K",
+      "name": "DRV134UA/1K",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "PI4IOE5V9539ZDEX": {
+      "canonical_id": "MPN:PI4IOE5V9539ZDEX",
+      "name": "PI4IOE5V9539ZDEX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP009"
+    },
+    "LV3313PMTLME": {
+      "canonical_id": "MPN:LV3313PMTLME",
+      "name": "LV3313PMTLME",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP009"
+    },
+    "ADS7822IDGKRQ1": {
+      "canonical_id": "MPN:ADS7822IDGKRQ1",
+      "name": "ADS7822IDGKRQ1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "MCP3221A1TE/OT": {
+      "canonical_id": "MPN:MCP3221A1TE/OT",
+      "name": "MCP3221A1TE/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "GS12090INTE3Z": {
+      "canonical_id": "MPN:GS12090INTE3Z",
+      "name": "GS12090INTE3Z",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP005"
+    },
+    "FT800QR": {
+      "canonical_id": "MPN:FT800QR",
+      "name": "FT800QR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "BridgeTek",
+      "category_name": "video_processing",
+      "supplier_id": "SUP005"
+    },
+    "GS2985INE3": {
+      "canonical_id": "MPN:GS2985INE3",
+      "name": "GS2985INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP011"
+    },
+    "MPC8313CVRAFFC": {
+      "canonical_id": "MPN:MPC8313CVRAFFC",
+      "name": "MPC8313CVRAFFC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP022"
+    },
+    "SI5324CCGM": {
+      "canonical_id": "MPN:SI5324CCGM",
+      "name": "SI5324CCGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP016"
+    },
+    "TFA9879HN/N1,118": {
+      "canonical_id": "MPN:TFA9879HN/N1,118",
+      "name": "TFA9879HN/N1,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP003"
+    },
+    "LMV1090TL/NOPB": {
+      "canonical_id": "MPN:LMV1090TL/NOPB",
+      "name": "LMV1090TL/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "ATTINY1604SSNR": {
+      "canonical_id": "MPN:ATTINY1604SSNR",
+      "name": "ATTINY1604SSNR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "R7S921047VCBG#AC0": {
+      "canonical_id": "MPN:R7S921047VCBG#AC0",
+      "name": "R7S921047VCBG#AC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "9DB102BFLF": {
+      "canonical_id": "MPN:9DB102BFLF",
+      "name": "9DB102BFLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "NCP2809BDMR2G": {
+      "canonical_id": "MPN:NCP2809BDMR2G",
+      "name": "NCP2809BDMR2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP014"
+    },
+    "GS2985INTE3": {
+      "canonical_id": "MPN:GS2985INTE3",
+      "name": "GS2985INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP005"
+    },
+    "MCP23008TE/SS": {
+      "canonical_id": "MPN:MCP23008TE/SS",
+      "name": "MCP23008TE/SS",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP004"
+    },
+    "MPC5200VR400B": {
+      "canonical_id": "MPN:MPC5200VR400B",
+      "name": "MPC5200VR400B",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP004"
+    },
+    "EQCO30R5.D": {
+      "canonical_id": "MPN:EQCO30R5.D",
+      "name": "EQCO30R5.D",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "GS1678INE3": {
+      "canonical_id": "MPN:GS1678INE3",
+      "name": "GS1678INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP016"
+    },
+    "SA571DR2G": {
+      "canonical_id": "MPN:SA571DR2G",
+      "name": "SA571DR2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP028"
+    },
+    "PCAL6408AHKX": {
+      "canonical_id": "MPN:PCAL6408AHKX",
+      "name": "PCAL6408AHKX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "MCIMX6S7CVM08AB": {
+      "canonical_id": "MPN:MCIMX6S7CVM08AB",
+      "name": "MCIMX6S7CVM08AB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "TPA3001D1PWP": {
+      "canonical_id": "MPN:TPA3001D1PWP",
+      "name": "TPA3001D1PWP",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP027"
+    },
+    "ZL40264LDG1": {
+      "canonical_id": "MPN:ZL40264LDG1",
+      "name": "ZL40264LDG1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP011"
+    },
+    "LMH0302SQ/NOPB": {
+      "canonical_id": "MPN:LMH0302SQ/NOPB",
+      "name": "LMH0302SQ/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "PGA2320IDW": {
+      "canonical_id": "MPN:PGA2320IDW",
+      "name": "PGA2320IDW",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP027"
+    },
+    "SA575N": {
+      "canonical_id": "MPN:SA575N",
+      "name": "SA575N",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP003"
+    },
+    "ATTINY1606MNR": {
+      "canonical_id": "MPN:ATTINY1606MNR",
+      "name": "ATTINY1606MNR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "FMS6141S5X": {
+      "canonical_id": "MPN:FMS6141S5X",
+      "name": "FMS6141S5X",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "PCAL6408AEX1Z": {
+      "canonical_id": "MPN:PCAL6408AEX1Z",
+      "name": "PCAL6408AEX1Z",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP005"
+    },
+    "ADAU7112ACBZR7": {
+      "canonical_id": "MPN:ADAU7112ACBZR7",
+      "name": "ADAU7112ACBZR7",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "9DB423BGLF": {
+      "canonical_id": "MPN:9DB423BGLF",
+      "name": "9DB423BGLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "CS2082EDWR20": {
+      "canonical_id": "MPN:CS2082EDWR20",
+      "name": "CS2082EDWR20",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "SN65DP159RGZT": {
+      "canonical_id": "MPN:SN65DP159RGZT",
+      "name": "SN65DP159RGZT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "video_processing",
+      "supplier_id": "SUP002"
+    },
+    "CAT9554WIG": {
+      "canonical_id": "MPN:CAT9554WIG",
+      "name": "CAT9554WIG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "TLC876CPW": {
+      "canonical_id": "MPN:TLC876CPW",
+      "name": "TLC876CPW",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP003"
+    },
+    "ADS7863IDBQ": {
+      "canonical_id": "MPN:ADS7863IDBQ",
+      "name": "ADS7863IDBQ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP015"
+    },
+    "STM32MP257FAK3": {
+      "canonical_id": "MPN:STM32MP257FAK3",
+      "name": "STM32MP257FAK3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "STMicroelectronics",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP029"
+    },
+    "PIC16F15213TI/MF": {
+      "canonical_id": "MPN:PIC16F15213TI/MF",
+      "name": "PIC16F15213TI/MF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP020"
+    },
+    "ADC082S021CIMMX": {
+      "canonical_id": "MPN:ADC082S021CIMMX",
+      "name": "ADC082S021CIMMX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP009"
+    },
+    "ATECC608ASSHDAT": {
+      "canonical_id": "MPN:ATECC608ASSHDAT",
+      "name": "ATECC608ASSHDAT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP011"
+    },
+    "ATTINY404SSNR": {
+      "canonical_id": "MPN:ATTINY404SSNR",
+      "name": "ATTINY404SSNR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP002"
+    },
+    "ADN2814ACPZ": {
+      "canonical_id": "MPN:ADN2814ACPZ",
+      "name": "ADN2814ACPZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP004"
+    },
+    "SI5328BCGM": {
+      "canonical_id": "MPN:SI5328BCGM",
+      "name": "SI5328BCGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP020"
+    },
+    "AM3359BZCZA80": {
+      "canonical_id": "MPN:AM3359BZCZA80",
+      "name": "AM3359BZCZA80",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP011"
+    },
+    "LV5609LPE": {
+      "canonical_id": "MPN:LV5609LPE",
+      "name": "LV5609LPE",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP001"
+    },
+    "CS5522ASZ": {
+      "canonical_id": "MPN:CS5522ASZ",
+      "name": "CS5522ASZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP003"
+    },
+    "CS5529ASZ": {
+      "canonical_id": "MPN:CS5529ASZ",
+      "name": "CS5529ASZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP009"
+    },
+    "MCP3208TCI/SL": {
+      "canonical_id": "MPN:MCP3208TCI/SL",
+      "name": "MCP3208TCI/SL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP020"
+    },
+    "AT91SAM9G45CCU": {
+      "canonical_id": "MPN:AT91SAM9G45CCU",
+      "name": "AT91SAM9G45CCU",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP022"
+    },
+    "PCA6408ABSHP": {
+      "canonical_id": "MPN:PCA6408ABSHP",
+      "name": "PCA6408ABSHP",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "ATECC608CMAHDAT": {
+      "canonical_id": "MPN:ATECC608CMAHDAT",
+      "name": "ATECC608CMAHDAT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP023"
+    },
+    "TWL1103GQER": {
+      "canonical_id": "MPN:TWL1103GQER",
+      "name": "TWL1103GQER",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP003"
+    },
+    "ATTINY13ASSUR": {
+      "canonical_id": "MPN:ATTINY13ASSUR",
+      "name": "ATTINY13ASSUR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP022"
+    },
+    "ATECC608CMAHDAS": {
+      "canonical_id": "MPN:ATECC608CMAHDAS",
+      "name": "ATECC608CMAHDAS",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP020"
+    },
+    "ATSHA204THCZT": {
+      "canonical_id": "MPN:ATSHA204THCZT",
+      "name": "ATSHA204THCZT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP014"
+    },
+    "PAM8904JER": {
+      "canonical_id": "MPN:PAM8904JER",
+      "name": "PAM8904JER",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP012"
+    },
+    "9DB823BGLF": {
+      "canonical_id": "MPN:9DB823BGLF",
+      "name": "9DB823BGLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP001"
+    },
+    "HI5675JCB": {
+      "canonical_id": "MPN:HI5675JCB",
+      "name": "HI5675JCB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP014"
+    },
+    "DS28E18Q+T": {
+      "canonical_id": "MPN:DS28E18Q+T",
+      "name": "DS28E18Q+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP001"
+    },
+    "ATTINY10TSHR": {
+      "canonical_id": "MPN:ATTINY10TSHR",
+      "name": "ATTINY10TSHR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP009"
+    },
+    "NCS2211MNTXG": {
+      "canonical_id": "MPN:NCS2211MNTXG",
+      "name": "NCS2211MNTXG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "GS12090INTE3": {
+      "canonical_id": "MPN:GS12090INTE3",
+      "name": "GS12090INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP014"
+    },
+    "PCAL6408APWJ": {
+      "canonical_id": "MPN:PCAL6408APWJ",
+      "name": "PCAL6408APWJ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "KA2142C": {
+      "canonical_id": "MPN:KA2142C",
+      "name": "KA2142C",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP014"
+    },
+    "SI52111A1GT": {
+      "canonical_id": "MPN:SI52111A1GT",
+      "name": "SI52111A1GT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP026"
+    },
+    "MAX9705DETB+T": {
+      "canonical_id": "MPN:MAX9705DETB+T",
+      "name": "MAX9705DETB+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "A1006UK/TA1NXZ": {
+      "canonical_id": "MPN:A1006UK/TA1NXZ",
+      "name": "A1006UK/TA1NXZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP002"
+    },
+    "PCA6408APW,118": {
+      "canonical_id": "MPN:PCA6408APW,118",
+      "name": "PCA6408APW,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "TDF8599CTH/N1,118": {
+      "canonical_id": "MPN:TDF8599CTH/N1,118",
+      "name": "TDF8599CTH/N1,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP004"
+    },
+    "CAT9554HV4IGT2": {
+      "canonical_id": "MPN:CAT9554HV4IGT2",
+      "name": "CAT9554HV4IGT2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "MCIMX6D6AVT10ADR": {
+      "canonical_id": "MPN:MCIMX6D6AVT10ADR",
+      "name": "MCIMX6D6AVT10ADR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP004"
+    },
+    "MCIMX6S5EVM10AB": {
+      "canonical_id": "MPN:MCIMX6S5EVM10AB",
+      "name": "MCIMX6S5EVM10AB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "PI4IOE5V9535ZDEX": {
+      "canonical_id": "MPN:PI4IOE5V9535ZDEX",
+      "name": "PI4IOE5V9535ZDEX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP012"
+    },
+    "GS12141INE3": {
+      "canonical_id": "MPN:GS12141INE3",
+      "name": "GS12141INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP013"
+    },
+    "JLC1562BFELG": {
+      "canonical_id": "MPN:JLC1562BFELG",
+      "name": "JLC1562BFELG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP011"
+    },
+    "SSM2211SZREEL": {
+      "canonical_id": "MPN:SSM2211SZREEL",
+      "name": "SSM2211SZREEL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP022"
+    },
+    "ADC081S021CIMF": {
+      "canonical_id": "MPN:ADC081S021CIMF",
+      "name": "ADC081S021CIMF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP009"
+    },
+    "FMS6363CSX": {
+      "canonical_id": "MPN:FMS6363CSX",
+      "name": "FMS6363CSX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "video_processing",
+      "supplier_id": "SUP003"
+    },
+    "9DB306BLLF": {
+      "canonical_id": "MPN:9DB306BLLF",
+      "name": "9DB306BLLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP001"
+    },
+    "PCAL6416AHF,128": {
+      "canonical_id": "MPN:PCAL6416AHF,128",
+      "name": "PCAL6416AHF,128",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "R7S921045VCBG#AC0": {
+      "canonical_id": "MPN:R7S921045VCBG#AC0",
+      "name": "R7S921045VCBG#AC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "MAX4466EXK+T": {
+      "canonical_id": "MPN:MAX4466EXK+T",
+      "name": "MAX4466EXK+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP001"
+    },
+    "DRV135UA": {
+      "canonical_id": "MPN:DRV135UA",
+      "name": "DRV135UA",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP027"
+    },
+    "XTR305IRGWR": {
+      "canonical_id": "MPN:XTR305IRGWR",
+      "name": "XTR305IRGWR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "TPA3001D1PWPR": {
+      "canonical_id": "MPN:TPA3001D1PWPR",
+      "name": "TPA3001D1PWPR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP022"
+    },
+    "DS34T108GN+": {
+      "canonical_id": "MPN:DS34T108GN+",
+      "name": "DS34T108GN+",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP006"
+    },
+    "AT91SAM9260BQU": {
+      "canonical_id": "MPN:AT91SAM9260BQU",
+      "name": "AT91SAM9260BQU",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP022"
+    },
+    "TCM320AC36CPT": {
+      "canonical_id": "MPN:TCM320AC36CPT",
+      "name": "TCM320AC36CPT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP026"
+    },
+    "R7S921040VCBG#AC0": {
+      "canonical_id": "MPN:R7S921040VCBG#AC0",
+      "name": "R7S921040VCBG#AC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "PCA9539D,118": {
+      "canonical_id": "MPN:PCA9539D,118",
+      "name": "PCA9539D,118",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "LMK00338RTAR": {
+      "canonical_id": "MPN:LMK00338RTAR",
+      "name": "LMK00338RTAR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP003"
+    },
+    "MAX9705CETB+T": {
+      "canonical_id": "MPN:MAX9705CETB+T",
+      "name": "MAX9705CETB+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP011"
+    },
+    "TAS2505IRGER": {
+      "canonical_id": "MPN:TAS2505IRGER",
+      "name": "TAS2505IRGER",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP025"
+    },
+    "ATTINY13ASSU": {
+      "canonical_id": "MPN:ATTINY13ASSU",
+      "name": "ATTINY13ASSU",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "microcontrollers",
+      "supplier_id": "SUP022"
+    },
+    "9LPRS501PGLF": {
+      "canonical_id": "MPN:9LPRS501PGLF",
+      "name": "9LPRS501PGLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP017"
+    },
+    "TAS5001IPFB": {
+      "canonical_id": "MPN:TAS5001IPFB",
+      "name": "TAS5001IPFB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP002"
+    },
+    "PAM8403DRH": {
+      "canonical_id": "MPN:PAM8403DRH",
+      "name": "PAM8403DRH",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "TLC549IPSR": {
+      "canonical_id": "MPN:TLC549IPSR",
+      "name": "TLC549IPSR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "NB3N3010BDG": {
+      "canonical_id": "MPN:NB3N3010BDG",
+      "name": "NB3N3010BDG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP027"
+    },
+    "R7S921052VCBG#BC0": {
+      "canonical_id": "MPN:R7S921052VCBG#BC0",
+      "name": "R7S921052VCBG#BC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "LMV1091TM/NOPB": {
+      "canonical_id": "MPN:LMV1091TM/NOPB",
+      "name": "LMV1091TM/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "SMA4306TLH": {
+      "canonical_id": "MPN:SMA4306TLH",
+      "name": "SMA4306TLH",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "DS2401P+T&R": {
+      "canonical_id": "MPN:DS2401P+T&R",
+      "name": "DS2401P+T&R",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP025"
+    },
+    "TCM320AC37CN": {
+      "canonical_id": "MPN:TCM320AC37CN",
+      "name": "TCM320AC37CN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP026"
+    },
+    "GS1674INE3": {
+      "canonical_id": "MPN:GS1674INE3",
+      "name": "GS1674INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP011"
+    },
+    "TPA2010D1YZFR": {
+      "canonical_id": "MPN:TPA2010D1YZFR",
+      "name": "TPA2010D1YZFR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP030"
+    },
+    "GS2984INTE3": {
+      "canonical_id": "MPN:GS2984INTE3",
+      "name": "GS2984INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP016"
+    },
+    "CAS5140ZI50GT3": {
+      "canonical_id": "MPN:CAS5140ZI50GT3",
+      "name": "CAS5140ZI50GT3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP014"
+    },
+    "LMC1983CIV": {
+      "canonical_id": "MPN:LMC1983CIV",
+      "name": "LMC1983CIV",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP014"
+    },
+    "PCA9574PW,112": {
+      "canonical_id": "MPN:PCA9574PW,112",
+      "name": "PCA9574PW,112",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "9SQL4958BNDGI": {
+      "canonical_id": "MPN:9SQL4958BNDGI",
+      "name": "9SQL4958BNDGI",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP001"
+    },
+    "DS28E15Q+T": {
+      "canonical_id": "MPN:DS28E15Q+T",
+      "name": "DS28E15Q+T",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP001"
+    },
+    "AD2428WCCSZRL": {
+      "canonical_id": "MPN:AD2428WCCSZRL",
+      "name": "AD2428WCCSZRL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP008"
+    },
+    "MCIMX7D5EVM10SD": {
+      "canonical_id": "MPN:MCIMX7D5EVM10SD",
+      "name": "MCIMX7D5EVM10SD",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP030"
+    },
+    "NE570DG": {
+      "canonical_id": "MPN:NE570DG",
+      "name": "NE570DG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP016"
+    },
+    "AM3358BZCZ100": {
+      "canonical_id": "MPN:AM3358BZCZ100",
+      "name": "AM3358BZCZ100",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP027"
+    },
+    "GS1672IBTE3": {
+      "canonical_id": "MPN:GS1672IBTE3",
+      "name": "GS1672IBTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP015"
+    },
+    "LM386N4/NOPB": {
+      "canonical_id": "MPN:LM386N4/NOPB",
+      "name": "LM386N4/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "NAU7802SGI": {
+      "canonical_id": "MPN:NAU7802SGI",
+      "name": "NAU7802SGI",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Nuvoton Technology Corporation",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "PI4IOE5V9554ALEX": {
+      "canonical_id": "MPN:PI4IOE5V9554ALEX",
+      "name": "PI4IOE5V9554ALEX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP001"
+    },
+    "LA9425E": {
+      "canonical_id": "MPN:LA9425E",
+      "name": "LA9425E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP014"
+    },
+    "TLC549CDR": {
+      "canonical_id": "MPN:TLC549CDR",
+      "name": "TLC549CDR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP027"
+    },
+    "MAX1185ECM/V+": {
+      "canonical_id": "MPN:MAX1185ECM/V+",
+      "name": "MAX1185ECM/V+",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP003"
+    },
+    "MCIMX353CJQ5C": {
+      "canonical_id": "MPN:MCIMX353CJQ5C",
+      "name": "MCIMX353CJQ5C",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP005"
+    },
+    "CAT9554AWIGT2": {
+      "canonical_id": "MPN:CAT9554AWIGT2",
+      "name": "CAT9554AWIGT2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "CS5550KISZ": {
+      "canonical_id": "MPN:CS5550KISZ",
+      "name": "CS5550KISZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP028"
+    },
+    "SI53152A01AGM": {
+      "canonical_id": "MPN:SI53152A01AGM",
+      "name": "SI53152A01AGM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP030"
+    },
+    "CAT9555YIT2": {
+      "canonical_id": "MPN:CAT9555YIT2",
+      "name": "CAT9555YIT2",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP019"
+    },
+    "ADC1175CIMTC": {
+      "canonical_id": "MPN:ADC1175CIMTC",
+      "name": "ADC1175CIMTC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "AT88SC12816CPU": {
+      "canonical_id": "MPN:AT88SC12816CPU",
+      "name": "AT88SC12816CPU",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP002"
+    },
+    "MCP3021A5TE/OT": {
+      "canonical_id": "MPN:MCP3021A5TE/OT",
+      "name": "MCP3021A5TE/OT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP018"
+    },
+    "TLC549CP": {
+      "canonical_id": "MPN:TLC549CP",
+      "name": "TLC549CP",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "PCA9554PWR": {
+      "canonical_id": "MPN:PCA9554PWR",
+      "name": "PCA9554PWR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP022"
+    },
+    "MCP3201TCI/SN": {
+      "canonical_id": "MPN:MCP3201TCI/SN",
+      "name": "MCP3201TCI/SN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP020"
+    },
+    "TLC549IPS": {
+      "canonical_id": "MPN:TLC549IPS",
+      "name": "TLC549IPS",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP011"
+    },
+    "NCP2892AFCT2G": {
+      "canonical_id": "MPN:NCP2892AFCT2G",
+      "name": "NCP2892AFCT2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP004"
+    },
+    "TWL1103PBSR": {
+      "canonical_id": "MPN:TWL1103PBSR",
+      "name": "TWL1103PBSR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP009"
+    },
+    "ATAES132SHEQT": {
+      "canonical_id": "MPN:ATAES132SHEQT",
+      "name": "ATAES132SHEQT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP002"
+    },
+    "SI5338ABGMR": {
+      "canonical_id": "MPN:SI5338ABGMR",
+      "name": "SI5338ABGMR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "ADN2812ACPZ": {
+      "canonical_id": "MPN:ADN2812ACPZ",
+      "name": "ADN2812ACPZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP004"
+    },
+    "ADC0838CIWMX": {
+      "canonical_id": "MPN:ADC0838CIWMX",
+      "name": "ADC0838CIWMX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP014"
+    },
+    "NCV7462DQ1R2G": {
+      "canonical_id": "MPN:NCV7462DQ1R2G",
+      "name": "NCV7462DQ1R2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "9DB801BFLF": {
+      "canonical_id": "MPN:9DB801BFLF",
+      "name": "9DB801BFLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "GS1672IBE3": {
+      "canonical_id": "MPN:GS1672IBE3",
+      "name": "GS1672IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP011"
+    },
+    "MCIMX6X2EVN10ABR": {
+      "canonical_id": "MPN:MCIMX6X2EVN10ABR",
+      "name": "MCIMX6X2EVN10ABR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP004"
+    },
+    "JLC1562BFEL": {
+      "canonical_id": "MPN:JLC1562BFEL",
+      "name": "JLC1562BFEL",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP009"
+    },
+    "PCA9571GUX": {
+      "canonical_id": "MPN:PCA9571GUX",
+      "name": "PCA9571GUX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "HI9P5701K5": {
+      "canonical_id": "MPN:HI9P5701K5",
+      "name": "HI9P5701K5",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP009"
+    },
+    "PAM8303CBSC": {
+      "canonical_id": "MPN:PAM8303CBSC",
+      "name": "PAM8303CBSC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "CM202102TR": {
+      "canonical_id": "MPN:CM202102TR",
+      "name": "CM202102TR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "82P339101BAG": {
+      "canonical_id": "MPN:82P339101BAG",
+      "name": "82P339101BAG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "TCA6424RGJR": {
+      "canonical_id": "MPN:TCA6424RGJR",
+      "name": "TCA6424RGJR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "MIMX8ML8CVNKZAB": {
+      "canonical_id": "MPN:MIMX8ML8CVNKZAB",
+      "name": "MIMX8ML8CVNKZAB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP004"
+    },
+    "LM386MX1/NOPB": {
+      "canonical_id": "MPN:LM386MX1/NOPB",
+      "name": "LM386MX1/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP002"
+    },
+    "AP1302CSSL00SMGA0DR": {
+      "canonical_id": "MPN:AP1302CSSL00SMGA0DR",
+      "name": "AP1302CSSL00SMGA0DR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "video_processing",
+      "supplier_id": "SUP009"
+    },
+    "ADC121S705CIMM": {
+      "canonical_id": "MPN:ADC121S705CIMM",
+      "name": "ADC121S705CIMM",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP014"
+    },
+    "LMC1983CIN": {
+      "canonical_id": "MPN:LMC1983CIN",
+      "name": "LMC1983CIN",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP014"
+    },
+    "MPC8247CVRTIEA": {
+      "canonical_id": "MPN:MPC8247CVRTIEA",
+      "name": "MPC8247CVRTIEA",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP022"
+    },
+    "GS1671AIBE3": {
+      "canonical_id": "MPN:GS1671AIBE3",
+      "name": "GS1671AIBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP011"
+    },
+    "ATSHA204SHCZT": {
+      "canonical_id": "MPN:ATSHA204SHCZT",
+      "name": "ATSHA204SHCZT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Microchip Technology",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP011"
+    },
+    "TLC548CP": {
+      "canonical_id": "MPN:TLC548CP",
+      "name": "TLC548CP",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP003"
+    },
+    "BR262W26A103E1G": {
+      "canonical_id": "MPN:BR262W26A103E1G",
+      "name": "BR262W26A103E1G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP009"
+    },
+    "SA575NG": {
+      "canonical_id": "MPN:SA575NG",
+      "name": "SA575NG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP009"
+    },
+    "ADS7142IRUGR": {
+      "canonical_id": "MPN:ADS7142IRUGR",
+      "name": "ADS7142IRUGR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP008"
+    },
+    "NCP2990FCT2G": {
+      "canonical_id": "MPN:NCP2990FCT2G",
+      "name": "NCP2990FCT2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP004"
+    },
+    "XRA1201PIG24TRF": {
+      "canonical_id": "MPN:XRA1201PIG24TRF",
+      "name": "XRA1201PIG24TRF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "MaxLinear",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP022"
+    },
+    "CM202001TR": {
+      "canonical_id": "MPN:CM202001TR",
+      "name": "CM202001TR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP022"
+    },
+    "ADS7882IPFBT": {
+      "canonical_id": "MPN:ADS7882IPFBT",
+      "name": "ADS7882IPFBT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "LA7845E": {
+      "canonical_id": "MPN:LA7845E",
+      "name": "LA7845E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "NCP4810DR2G": {
+      "canonical_id": "MPN:NCP4810DR2G",
+      "name": "NCP4810DR2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "ADA44301YKSZR7": {
+      "canonical_id": "MPN:ADA44301YKSZR7",
+      "name": "ADA44301YKSZR7",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "video_processing",
+      "supplier_id": "SUP001"
+    },
+    "PAM8301AAF": {
+      "canonical_id": "MPN:PAM8301AAF",
+      "name": "PAM8301AAF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Diodes Incorporated",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP024"
+    },
+    "LMV1099TL/NOPB": {
+      "canonical_id": "MPN:LMV1099TL/NOPB",
+      "name": "LMV1099TL/NOPB",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP011"
+    },
+    "NCP2991FCT2G": {
+      "canonical_id": "MPN:NCP2991FCT2G",
+      "name": "NCP2991FCT2G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "CS2082EDW20": {
+      "canonical_id": "MPN:CS2082EDW20",
+      "name": "CS2082EDW20",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP003"
+    },
+    "MPC8270CZQMIBA": {
+      "canonical_id": "MPN:MPC8270CZQMIBA",
+      "name": "MPC8270CZQMIBA",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP004"
+    },
+    "ADS8324E/2K5": {
+      "canonical_id": "MPN:ADS8324E/2K5",
+      "name": "ADS8324E/2K5",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP027"
+    },
+    "932SV901AKLF": {
+      "canonical_id": "MPN:932SV901AKLF",
+      "name": "932SV901AKLF",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP002"
+    },
+    "ADC08832IMX": {
+      "canonical_id": "MPN:ADC08832IMX",
+      "name": "ADC08832IMX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP009"
+    },
+    "GS2961IBE3": {
+      "canonical_id": "MPN:GS2961IBE3",
+      "name": "GS2961IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "video_processing",
+      "supplier_id": "SUP005"
+    },
+    "CM2030A0TR": {
+      "canonical_id": "MPN:CM2030A0TR",
+      "name": "CM2030A0TR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "SI53102A2GMR": {
+      "canonical_id": "MPN:SI53102A2GMR",
+      "name": "SI53102A2GMR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP026"
+    },
+    "M62457AFP#TF0G": {
+      "canonical_id": "MPN:M62457AFP#TF0G",
+      "name": "M62457AFP#TF0G",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP002"
+    },
+    "MCIMX6Q6AVT10AC": {
+      "canonical_id": "MPN:MCIMX6Q6AVT10AC",
+      "name": "MCIMX6Q6AVT10AC",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "ADC081S101CIMFX": {
+      "canonical_id": "MPN:ADC081S101CIMFX",
+      "name": "ADC081S101CIMFX",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP002"
+    },
+    "SI53102A3GMR": {
+      "canonical_id": "MPN:SI53102A3GMR",
+      "name": "SI53102A3GMR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Skyworks Solutions",
+      "category_name": "application_specific_clock_timing",
+      "supplier_id": "SUP015"
+    },
+    "LV3328PMTLME": {
+      "canonical_id": "MPN:LV3328PMTLME",
+      "name": "LV3328PMTLME",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Sanyo",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP014"
+    },
+    "R7S921042VCBG#BC0": {
+      "canonical_id": "MPN:R7S921042VCBG#BC0",
+      "name": "R7S921042VCBG#BC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP002"
+    },
+    "R7S921045VCBG#BC0": {
+      "canonical_id": "MPN:R7S921045VCBG#BC0",
+      "name": "R7S921045VCBG#BC0",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Renesas Electronics Corporation",
+      "category_name": "microprocessors",
+      "supplier_id": "SUP020"
+    },
+    "SSM2211SZ": {
+      "canonical_id": "MPN:SSM2211SZ",
+      "name": "SSM2211SZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Analog Devices",
+      "category_name": "audio_amplifiers",
+      "supplier_id": "SUP009"
+    },
+    "A1006TL/TA1NXZ": {
+      "canonical_id": "MPN:A1006TL/TA1NXZ",
+      "name": "A1006TL/TA1NXZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "specialized_ics",
+      "supplier_id": "SUP009"
+    },
+    "JLC1562BNG": {
+      "canonical_id": "MPN:JLC1562BNG",
+      "name": "JLC1562BNG",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP003"
+    },
+    "LV3311PNMTLME": {
+      "canonical_id": "MPN:LV3311PNMTLME",
+      "name": "LV3311PNMTLME",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "audio_special_purpose",
+      "supplier_id": "SUP003"
+    },
+    "TLC548CDR": {
+      "canonical_id": "MPN:TLC548CDR",
+      "name": "TLC548CDR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "analog_to_digital_converters__adc_",
+      "supplier_id": "SUP009"
+    },
+    "PCA9674APW,112": {
+      "canonical_id": "MPN:PCA9674APW,112",
+      "name": "PCA9674APW,112",
+      "entity_type": "COMPONENT",
+      "manufacturer": "NXP Semiconductors",
+      "category_name": "i_o_expanders",
+      "supplier_id": "SUP002"
+    },
+    "CS5550K-ISZ": {
+      "canonical_id": "MPN:CS5550K-ISZ",
+      "name": "CS5550K-ISZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic Inc.",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "CS5523-ASZ": {
+      "canonical_id": "MPN:CS5523-ASZ",
+      "name": "CS5523-ASZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic Inc.",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "CS5529-ASZ": {
+      "canonical_id": "MPN:CS5529-ASZ",
+      "name": "CS5529-ASZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic Inc.",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "CS5522-ASZ": {
+      "canonical_id": "MPN:CS5522-ASZ",
+      "name": "CS5522-ASZ",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Cirrus Logic Inc.",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7841ESQDBQRQ1": {
+      "canonical_id": "MPN:ADS7841ESQDBQRQ1",
+      "name": "ADS7841ESQDBQRQ1",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS830E": {
+      "canonical_id": "MPN:ADS830E",
+      "name": "ADS830E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7834E/250": {
+      "canonical_id": "MPN:ADS7834E/250",
+      "name": "ADS7834E/250",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7881IPFBR": {
+      "canonical_id": "MPN:ADS7881IPFBR",
+      "name": "ADS7881IPFBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7881IRGZT": {
+      "canonical_id": "MPN:ADS7881IRGZT",
+      "name": "ADS7881IRGZT",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7842E": {
+      "canonical_id": "MPN:ADS7842E",
+      "name": "ADS7842E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7852YB/250": {
+      "canonical_id": "MPN:ADS7852YB/250",
+      "name": "ADS7852YB/250",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7852Y/250": {
+      "canonical_id": "MPN:ADS7852Y/250",
+      "name": "ADS7852Y/250",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS8323Y/2K": {
+      "canonical_id": "MPN:ADS8323Y/2K",
+      "name": "ADS8323Y/2K",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS8343E/2K5": {
+      "canonical_id": "MPN:ADS8343E/2K5",
+      "name": "ADS8343E/2K5",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7881IRGZR": {
+      "canonical_id": "MPN:ADS7881IRGZR",
+      "name": "ADS7881IRGZR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS8323Y/250": {
+      "canonical_id": "MPN:ADS8323Y/250",
+      "name": "ADS8323Y/250",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS7891IPFBR": {
+      "canonical_id": "MPN:ADS7891IPFBR",
+      "name": "ADS7891IPFBR",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "ADS8323YB/250": {
+      "canonical_id": "MPN:ADS8323YB/250",
+      "name": "ADS8323YB/250",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Texas Instruments",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "LC75343M-TLM-E": {
+      "canonical_id": "MPN:LC75343M-TLM-E",
+      "name": "LC75343M-TLM-E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "LV3313PM-TLM-E": {
+      "canonical_id": "MPN:LV3313PM-TLM-E",
+      "name": "LV3313PM-TLM-E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "LC75348M-TLM-E": {
+      "canonical_id": "MPN:LC75348M-TLM-E",
+      "name": "LC75348M-TLM-E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "LC75410WS-E": {
+      "canonical_id": "MPN:LC75410WS-E",
+      "name": "LC75410WS-E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "onsemi",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "LV3311PNM-TLM-E": {
+      "canonical_id": "MPN:LV3311PNM-TLM-E",
+      "name": "LV3311PNM-TLM-E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Sanyo",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "LV3328PM-TLM-E": {
+      "canonical_id": "MPN:LV3328PM-TLM-E",
+      "name": "LV3328PM-TLM-E",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Sanyo",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS12181-INTE3": {
+      "canonical_id": "MPN:GS12181-INTE3",
+      "name": "GS12181-INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS12141-INE3": {
+      "canonical_id": "MPN:GS12141-INE3",
+      "name": "GS12141-INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2984-INE3": {
+      "canonical_id": "MPN:GS2984-INE3",
+      "name": "GS2984-INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS12090-INTE3": {
+      "canonical_id": "MPN:GS12090-INTE3",
+      "name": "GS12090-INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2965-INE3": {
+      "canonical_id": "MPN:GS2965-INE3",
+      "name": "GS2965-INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS1678-INE3": {
+      "canonical_id": "MPN:GS1678-INE3",
+      "name": "GS1678-INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS1678-INTE3": {
+      "canonical_id": "MPN:GS1678-INTE3",
+      "name": "GS1678-INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2960-IBE3": {
+      "canonical_id": "MPN:GS2960-IBE3",
+      "name": "GS2960-IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2985-INE3": {
+      "canonical_id": "MPN:GS2985-INE3",
+      "name": "GS2985-INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS1674-INTE3": {
+      "canonical_id": "MPN:GS1674-INTE3",
+      "name": "GS1674-INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2984-INTE3Z": {
+      "canonical_id": "MPN:GS2984-INTE3Z",
+      "name": "GS2984-INTE3Z",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2984-INTE3": {
+      "canonical_id": "MPN:GS2984-INTE3",
+      "name": "GS2984-INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS12090-INTE3Z": {
+      "canonical_id": "MPN:GS12090-INTE3Z",
+      "name": "GS12090-INTE3Z",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS12090-INE3": {
+      "canonical_id": "MPN:GS12090-INE3",
+      "name": "GS12090-INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2985-INTE3": {
+      "canonical_id": "MPN:GS2985-INTE3",
+      "name": "GS2985-INTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS1674-INE3": {
+      "canonical_id": "MPN:GS1674-INE3",
+      "name": "GS1674-INE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS1672-IBE3": {
+      "canonical_id": "MPN:GS1672-IBE3",
+      "name": "GS1672-IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS1672-IBTE3": {
+      "canonical_id": "MPN:GS1672-IBTE3",
+      "name": "GS1672-IBTE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2970-IBE3": {
+      "canonical_id": "MPN:GS2970-IBE3",
+      "name": "GS2970-IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    },
+    "GS2961-IBE3": {
+      "canonical_id": "MPN:GS2961-IBE3",
+      "name": "GS2961-IBE3",
+      "entity_type": "COMPONENT",
+      "manufacturer": "Semtech Corporation",
+      "category_name": "catalog",
+      "supplier_id": null
+    }
+  },
+  "regions": [
+    "Europe",
+    "Asia-Pacific",
+    "Middle-East",
+    "Africa",
+    "Latin-America",
+    "North-America"
+  ],
+  "stats": {
+    "supplier_count": 30,
+    "manufacturer_count": 26,
+    "component_count": 476
+  }
+}

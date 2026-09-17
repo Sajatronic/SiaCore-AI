@@ -1,0 +1,109 @@
+{
+  "drop_count": 8,
+  "drops": [
+    {
+      "article_id": "07c3fde3-a54b-4da0-8147-2e1e67ada3d0",
+      "provider": "gdelt",
+      "title": "U.S. bans import of humanoid robots made abroad, targets China",
+      "url": "https://gdeltcloud.com/events/us-bans-import-of-humanoid-robots-made-abroad-targets-china--cameoplus_da3ff585ada47ffd",
+      "relevance_score": 0.358,
+      "min_score_required": 0.4,
+      "matched_terms": [
+        "semiconductor:ic",
+        "metadata:supply_chain:supplier"
+      ],
+      "drop_reason": "keyword_entity_score",
+      "dropped_at": "2026-08-03T06:03:02.648894"
+    },
+    {
+      "article_id": "9e504495-2a91-4b55-810b-481777ed2c54",
+      "provider": "gdelt",
+      "title": "Indonesia bans export of rare earth metals as primary products",
+      "url": "https://gdeltcloud.com/events/indonesia-bans-export-of-rare-earth-metals-as-primary-produc--cameoplus_c8b5519050ac9440",
+      "relevance_score": 0.228,
+      "min_score_required": 0.4,
+      "matched_terms": [
+        "metadata:geopolitical:export ban",
+        "metadata:semiconductor:ic"
+      ],
+      "drop_reason": "keyword_entity_score",
+      "dropped_at": "2026-08-03T06:03:02.651871"
+    },
+    {
+      "article_id": "06e0eaf5-ad88-4aaf-95d0-fbebda90b5b9",
+      "provider": "gdelt",
+      "title": "146 phone lines out of service after terrestrial communications network collapses in Al-Qish'a, Radfan",
+      "url": "https://gdeltcloud.com/events/146-phone-lines-out-of-service-after-terrestrial-communicati--cameoplus_64d063420a036eb2",
+      "relevance_score": 0.352,
+      "min_score_required": 0.4,
+      "matched_terms": [
+        "semiconductor:ic",
+        "metadata:disruption:outage"
+      ],
+      "drop_reason": "keyword_entity_score",
+      "dropped_at": "2026-08-03T06:03:02.653086"
+    },
+    {
+      "article_id": "12856420-027d-4657-913d-7f9850bebdc1",
+      "provider": "gdelt",
+      "title": "China Cotton Association opposes U.S. measures targeting forced-labor firms",
+      "url": "https://gdeltcloud.com/events/china-cotton-association-opposes-us-measures-targeting-force--cameoplus_bb15d5517abaff99",
+      "relevance_score": 0.25,
+      "min_score_required": 0.4,
+      "matched_terms": [
+        "semiconductor:ic"
+      ],
+      "drop_reason": "keyword_entity_score",
+      "dropped_at": "2026-08-03T06:03:02.659048"
+    },
+    {
+      "article_id": "f2931935-60ca-4d5d-a0e6-44c4d88a5dc5",
+      "provider": "gdelt",
+      "title": "Russia warns Ireland of consequences for attempts at maritime piracy",
+      "url": "https://gdeltcloud.com/events/russia-warns-ireland-of-consequences-for-attempts-at-maritim--cameoplus_dddd89783594e348",
+      "relevance_score": 0.3,
+      "min_score_required": 0.4,
+      "matched_terms": [
+        "geopolitical:war",
+        "metadata:semiconductor:ic"
+      ],
+      "drop_reason": "keyword_entity_score",
+      "dropped_at": "2026-08-03T06:03:02.662598"
+    },
+    {
+      "article_id": "277a5655-cd4e-43ed-9d42-dc8bd20d9969",
+      "provider": "newsdata",
+      "title": "Sunil Chhetri Urges Tata Group to Reconsider Jamshedpur FC's Closure",
+      "url": "https://gyanhigyan.com/sports/cricket/sunil-chhetri-urges-tata-group-to-reconsider-jamshedpur-fcs/cid19073514.htm",
+      "relevance_score": 0.0,
+      "min_score_required": 0.45,
+      "matched_terms": [
+        "negative:football"
+      ],
+      "drop_reason": "negative_keyword_match",
+      "dropped_at": "2026-08-03T06:03:02.667812"
+    },
+    {
+      "article_id": "824d00bd-1056-4e0a-a5a3-9f6626c74f80",
+      "provider": "newsdata",
+      "title": "Red Sox rumors: Jarren Duran trade is inevitable, but there’s a catch",
+      "url": "https://sports.yahoo.com/articles/red-sox-rumors-jarren-duran-180330300.html",
+      "relevance_score": 0.12,
+      "min_score_required": 0.45,
+      "matched_terms": [],
+      "drop_reason": "no_keyword_or_entity_match",
+      "dropped_at": "2026-08-03T06:03:02.668934"
+    },
+    {
+      "article_id": "97b7adae-3279-409d-aaa3-9bfddac63195",
+      "provider": "newsdata",
+      "title": "Xenia Hotels & Resorts Q2 Earnings Call Highlights",
+      "url": "https://www.themarketsdaily.com/2026/08/02/xenia-hotels-resorts-q2-earnings-call-highlights.html",
+      "relevance_score": 0.12,
+      "min_score_required": 0.45,
+      "matched_terms": [],
+      "drop_reason": "no_keyword_or_entity_match",
+      "dropped_at": "2026-08-03T06:03:02.669336"
+    }
+  ]
+}
