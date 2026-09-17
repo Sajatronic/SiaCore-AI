@@ -1,0 +1,22 @@
+# Source reliability tiers — NexusFlow AI Proposal §10
+tiers:
+  1:
+    label: official_structured
+    description: Official regulatory or structured disaster/geopolitical feeds
+    providers:
+      - gdacs
+      - gdelt
+    default_weight: 1.0
+  2:
+    label: financial_wire
+    description: Established financial and market news wires
+    providers:
+      - marketaux
+    default_weight: 0.85
+  3:
+    label: news_aggregator
+    description: General news aggregators
+    providers:
+      - gnews
+      - newsdata
+    default_weight: 0.65

@@ -1,0 +1,162 @@
+# Fixed event taxonomy — NexusFlow News Pipeline Phase 6
+# Categories are intentionally stable and auditable.
+# Classification confidence must always be preserved in RiskEvent output.
+
+categories:
+
+  natural_disaster:
+    label: Natural Disaster
+    subtypes:
+      - earthquake
+      - flood
+      - tropical_cyclone
+      - hurricane
+      - typhoon
+      - tsunami
+      - wildfire
+      - volcanic_eruption
+      - drought
+      - extreme_weather
+      - other_natural_disaster
+
+  factory_shutdown:
+    label: Factory Shutdown
+    subtypes:
+      - plant_fire
+      - power_outage
+      - equipment_failure
+      - contamination_event
+      - industrial_accident
+      - environmental_violation_shutdown
+      - maintenance_shutdown
+      - announced_closure
+      - other_shutdown
+
+  export_sanction:
+    label: Export Sanction
+    subtypes:
+      - export_control
+      - trade_restriction
+      - embargo
+      - tariff
+      - import_ban
+      - entity_list_addition
+      - licensing_requirement
+      - technology_transfer_restriction
+      - other_sanction
+
+  labor_action:
+    label: Labor Action
+    subtypes:
+      - strike
+      - protest
+      - walkout
+      - union_dispute
+      - wage_dispute
+      - labor_shortage
+      - other_labor
+
+  logistics_disruption:
+    label: Logistics Disruption
+    subtypes:
+      - port_closure
+      - port_shutdown
+      - route_blockage
+      - canal_disruption
+      - customs_delay
+      - carrier_failure
+      - border_closure
+      - airspace_closure
+      - shipping_delay
+      - maritime_attack
+      - transportation_accident
+      - warehouse_disruption
+      - other_logistics
+
+  financial_distress:
+    label: Financial Distress
+    subtypes:
+      - bankruptcy
+      - insolvency
+      - credit_downgrade
+      - liquidity_crisis
+      - debt_default
+      - restructuring
+      - acquisition_risk
+      - supplier_payment_failure
+      - other_financial
+
+  geopolitical_event:
+    label: Geopolitical Event
+    subtypes:
+      - armed_conflict
+      - military_escalation
+      - political_instability
+      - regional_crisis
+      - civil_unrest
+      - diplomatic_breakdown
+      - sanctions_escalation
+      - regime_change
+      - terrorism
+      - other_geopolitical
+
+  cyber_incident:
+    label: Cyber Incident
+    subtypes:
+      - ransomware
+      - data_breach
+      - operational_disruption
+      - supply_chain_attack
+      - espionage
+      - infrastructure_attack
+      - ot_system_compromise
+      - other_cyber
+
+  energy_disruption:
+    label: Energy Disruption
+    subtypes:
+      - grid_failure
+      - power_shortage
+      - rolling_blackouts
+      - fuel_shortage
+      - gas_supply_disruption
+      - utility_failure
+      - other_energy
+
+  regulatory_change:
+    label: Regulatory Change
+    subtypes:
+      - environmental_regulation
+      - compliance_requirement
+      - safety_regulation
+      - customs_policy_change
+      - import_export_policy_change
+      - certification_requirement
+      - other_regulatory
+
+  public_health_event:
+    label: Public Health Event
+    subtypes:
+      - epidemic
+      - pandemic
+      - quarantine
+      - workforce_health_disruption
+      - travel_restriction
+      - other_health
+
+  market_disruption:
+    label: Market Disruption
+    subtypes:
+      - raw_material_shortage
+      - rare_earth_shortage
+      - semiconductor_shortage
+      - commodity_price_shock
+      - demand_spike
+      - demand_collapse
+      - other_market
+
+  other:
+    label: Other
+    subtypes:
+      - unclassified
+      - unknown

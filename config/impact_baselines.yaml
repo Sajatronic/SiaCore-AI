@@ -1,0 +1,129 @@
+# Category baselines for rule-based impact prediction (Phase 4)
+# Probabilities are 0.0-1.0 priors before severity/entity adjustments.
+
+default:
+  supply_delay_probability: 0.35
+  manufacturing_disruption_probability: 0.30
+  logistics_disruption_probability: 0.30
+  inventory_shortage_probability: 0.25
+  price_increase_probability: 0.20
+  recovery_days_min: 7
+  recovery_days_max: 45
+
+categories:
+  natural_disaster:
+    supply_delay_probability: 0.55
+    manufacturing_disruption_probability: 0.50
+    logistics_disruption_probability: 0.65
+    inventory_shortage_probability: 0.40
+    price_increase_probability: 0.30
+    recovery_days_min: 14
+    recovery_days_max: 120
+
+  factory_shutdown:
+    supply_delay_probability: 0.70
+    manufacturing_disruption_probability: 0.80
+    logistics_disruption_probability: 0.35
+    inventory_shortage_probability: 0.55
+    price_increase_probability: 0.45
+    recovery_days_min: 21
+    recovery_days_max: 90
+
+  export_sanction:
+    supply_delay_probability: 0.65
+    manufacturing_disruption_probability: 0.55
+    logistics_disruption_probability: 0.50
+    inventory_shortage_probability: 0.50
+    price_increase_probability: 0.60
+    recovery_days_min: 30
+    recovery_days_max: 180
+
+  labor_action:
+    supply_delay_probability: 0.60
+    manufacturing_disruption_probability: 0.45
+    logistics_disruption_probability: 0.55
+    inventory_shortage_probability: 0.35
+    price_increase_probability: 0.25
+    recovery_days_min: 14
+    recovery_days_max: 60
+
+  logistics_disruption:
+    supply_delay_probability: 0.75
+    manufacturing_disruption_probability: 0.30
+    logistics_disruption_probability: 0.85
+    inventory_shortage_probability: 0.40
+    price_increase_probability: 0.35
+    recovery_days_min: 7
+    recovery_days_max: 60
+
+  financial_distress:
+    supply_delay_probability: 0.45
+    manufacturing_disruption_probability: 0.40
+    logistics_disruption_probability: 0.25
+    inventory_shortage_probability: 0.35
+    price_increase_probability: 0.30
+    recovery_days_min: 30
+    recovery_days_max: 120
+
+  geopolitical_event:
+    supply_delay_probability: 0.60
+    manufacturing_disruption_probability: 0.45
+    logistics_disruption_probability: 0.70
+    inventory_shortage_probability: 0.45
+    price_increase_probability: 0.50
+    recovery_days_min: 21
+    recovery_days_max: 120
+
+  cyber_incident:
+    supply_delay_probability: 0.50
+    manufacturing_disruption_probability: 0.55
+    logistics_disruption_probability: 0.40
+    inventory_shortage_probability: 0.30
+    price_increase_probability: 0.20
+    recovery_days_min: 7
+    recovery_days_max: 45
+
+  energy_disruption:
+    supply_delay_probability: 0.55
+    manufacturing_disruption_probability: 0.60
+    logistics_disruption_probability: 0.50
+    inventory_shortage_probability: 0.40
+    price_increase_probability: 0.55
+    recovery_days_min: 14
+    recovery_days_max: 90
+
+  regulatory_change:
+    supply_delay_probability: 0.40
+    manufacturing_disruption_probability: 0.35
+    logistics_disruption_probability: 0.30
+    inventory_shortage_probability: 0.30
+    price_increase_probability: 0.35
+    recovery_days_min: 30
+    recovery_days_max: 180
+
+  public_health_event:
+    supply_delay_probability: 0.50
+    manufacturing_disruption_probability: 0.55
+    logistics_disruption_probability: 0.45
+    inventory_shortage_probability: 0.35
+    price_increase_probability: 0.25
+    recovery_days_min: 21
+    recovery_days_max: 120
+
+  market_disruption:
+    supply_delay_probability: 0.45
+    manufacturing_disruption_probability: 0.35
+    logistics_disruption_probability: 0.35
+    inventory_shortage_probability: 0.30
+    price_increase_probability: 0.50
+    recovery_days_min: 14
+    recovery_days_max: 90
+
+  other:
+    supply_delay_probability: 0.30
+    manufacturing_disruption_probability: 0.25
+    logistics_disruption_probability: 0.25
+    inventory_shortage_probability: 0.20
+    price_increase_probability: 0.15
+    recovery_days_min: 7
+    recovery_days_max: 30

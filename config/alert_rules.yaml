@@ -1,0 +1,47 @@
+# Config-only alert rules (Phase 1 — no delivery channels)
+# Rules are evaluated after persistence; matches are stored in alert_matches.
+
+enabled: true
+
+rules:
+  - id: high_severity_any
+    name: High severity event
+    enabled: true
+    conditions:
+      min_severity: 70
+    description: Fires when severity score is 70 or above.
+
+  - id: natural_disaster_red
+    name: GDACS red alert natural disaster
+    enabled: true
+    conditions:
+      event_categories:
+        - natural_disaster
+      min_severity: 80
+    description: High-confidence natural disaster with elevated severity.
+
+  - id: logistics_critical_location
+    name: Logistics disruption at strategic location
+    enabled: true
+    conditions:
+      event_categories:
+        - logistics_disruption
+      min_severity: 65
+    description: Logistics events above moderate severity threshold.
+
+  - id: multi_source_confirmed
+    name: Multi-source verified event
+    enabled: true
+    conditions:
+      min_source_count: 2
+      min_verification_score: 0.6
+    description: Event confirmed by two or more independent sources.
+
+  - id: export_sanction_high
+    name: Export sanction or trade restriction
+    enabled: true
+    conditions:
+      event_categories:
+        - export_sanction
+      min_severity: 60
+    description: Trade restriction events above baseline severity.
