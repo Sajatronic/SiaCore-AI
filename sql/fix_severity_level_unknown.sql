@@ -1,0 +1,49 @@
+-- =====================================================================
+-- FIX: severity badges showing "Unknown" on the News page
+-- =====================================================================
+-- News.jsx reads `ev.severity_level` for the risk badge color/label, but
+-- only `severity_score` (a plain number) is being returned — nothing
+-- computes severity_level, so it's always undefined and RiskBadge falls
+-- back to "Unknown" for every single event, even ones with a real score.
+--
+-- Add this CASE expression to the SELECT list of BOTH functions that
+-- return event rows: get_recent_events (the list) and get_event_details
+-- (the modal). I don't have your current definitions of either function
+-- to patch directly — paste them and I'll do it precisely — but this is
+-- the exact expression to add in both places:
+-- =====================================================================
+
+--   case
+--     when re.severity_score >= 90 then 'Critical'
+--     when re.severity_score >= 70 then 'High'
+--     when re.severity_score >= 40 then 'Medium'
+--     when re.severity_score > 0   then 'Low'
+--     else 'Unknown'
+--   end as severity_level
+
+-- Example of where it goes in get_recent_events (adjust to match your
+-- actual current column list/aliases — this is illustrative, not a
+-- full replacement):
+--
+-- select distinct on (re.title)
+--   re.event_id::text,
+--   re.title,
+--   re.summary,
+--   re.severity_score,
+--   case
+--     when re.severity_score >= 90 then 'Critical'
+--     when re.severity_score >= 70 then 'High'
+--     when re.severity_score >= 40 then 'Medium'
+--     when re.severity_score > 0   then 'Low'
+--     else 'Unknown'
+--   end as severity_level,
+--   coalesce(re.severity_signal #>> '{}', 'Unclassified') as severity_signal,
+--   re.retrieval_timestamp as retrieved_at
+-- from risk_events re
+-- ...
+
+-- The exact thresholds (90/70/40) are a starting point matching a typical
+-- 0-100 severity scale — adjust them if your project already has
+-- documented bands elsewhere (e.g. in the same notebook/pipeline that
+-- produces severity_score) so this stays consistent with anything else
+-- that classifies severity.

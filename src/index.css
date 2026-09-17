@@ -1,0 +1,178 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Light theme — higher contrast between app bg / sidebar / cards */
+  --bg-app: #EEF2F9;
+  --bg-sidebar: rgba(255, 255, 255, 0.7);
+  --bg-surface: rgba(255, 255, 255, 0.75);
+  --bg-surface-2: rgba(241, 245, 249, 0.85);
+  --text-primary: #0B132B;
+  --text-secondary: #64748B;
+  --border: rgba(15, 23, 42, 0.08);
+  --glass-shadow: 0 8px 32px rgba(37, 99, 235, 0.08);
+  --hex-opacity: 0.05;
+}
+
+.dark {
+  /* Dark theme — matched to the logo artwork's background; layered glass surfaces for contrast */
+  --bg-app: #000615;
+  --bg-sidebar: rgba(9, 15, 34, 0.6);
+  --bg-surface: rgba(18, 27, 54, 0.55);
+  --bg-surface-2: rgba(24, 34, 71, 0.65);
+  --text-primary: #F8FAFC;
+  --text-secondary: #8CA0C6;
+  --border: rgba(148, 163, 184, 0.12);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(37, 99, 235, 0.06);
+  --hex-opacity: 0.06;
+}
+
+body {
+  background-color: var(--bg-app);
+  color: var(--text-primary);
+  font-family: 'Outfit', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: 'Sora', sans-serif;
+}
+
+/* ---------------------------------------------------------------------
+   Ambient background: aurora gradient blobs + flowing wave + hex pattern
+   Applied once behind the whole app shell (see Layout.jsx AppBackground)
+--------------------------------------------------------------------- */
+.app-background {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background-color: var(--bg-app);
+}
+
+.app-background::before {
+  /* aurora blobs */
+  content: '';
+  position: absolute;
+  inset: -20%;
+  background:
+    radial-gradient(38% 30% at 12% 8%, rgba(0, 194, 171, 0.16) 0%, rgba(0, 194, 171, 0) 70%),
+    radial-gradient(45% 35% at 85% 15%, rgba(37, 99, 235, 0.18) 0%, rgba(37, 99, 235, 0) 70%),
+    radial-gradient(40% 32% at 70% 85%, rgba(217, 70, 239, 0.14) 0%, rgba(217, 70, 239, 0) 70%),
+    radial-gradient(35% 28% at 5% 80%, rgba(124, 58, 237, 0.12) 0%, rgba(124, 58, 237, 0) 70%);
+  filter: blur(40px);
+  animation: aurora-drift 24s ease-in-out infinite alternate;
+}
+
+.dark .app-background::before {
+  opacity: 1;
+}
+:root .app-background::before {
+  opacity: 0.55;
+}
+
+.app-background::after {
+  /* hexagon lattice pattern */
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: var(--hex-opacity);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='100' viewBox='0 0 56 100'%3E%3Cpath d='M28 0 L56 16 L56 50 L28 66 L0 50 L0 16 Z' fill='none' stroke='%2300C2AB' stroke-width='1'/%3E%3Cpath d='M28 34 L56 50 L56 84 L28 100 L0 84 L0 50 Z' fill='none' stroke='%232563EB' stroke-width='1'/%3E%3C/svg%3E");
+  background-size: 56px 100px;
+}
+
+@keyframes aurora-drift {
+  0%   { transform: translate3d(0, 0, 0) scale(1); }
+  100% { transform: translate3d(-2%, 2%, 0) scale(1.05); }
+}
+
+/* flowing wave accent, used behind hero-style sections */
+.wave-accent {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 300'%3E%3Cpath d='M0 220 C 200 120, 400 260, 600 180 S 1000 80, 1200 160' fill='none' stroke='%2300C2AB' stroke-width='1.5' opacity='0.35'/%3E%3Cpath d='M0 260 C 220 180, 420 300, 640 220 S 1020 120, 1200 200' fill='none' stroke='%237C3AED' stroke-width='1.5' opacity='0.25'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
+
+/* ---------------------------------------------------------------------
+   Glassmorphism surfaces
+--------------------------------------------------------------------- */
+.surface {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: var(--glass-shadow);
+}
+
+.surface-2 {
+  background-color: var(--bg-surface-2);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.sidebar-glass {
+  background-color: var(--bg-sidebar);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+}
+
+.card-hover {
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  border-color: rgba(37, 99, 235, 0.35);
+  box-shadow: 0 12px 40px rgba(37, 99, 235, 0.16);
+}
+
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+/* ---------------------------------------------------------------------
+   Brand gradients
+   Aurora Flow    — primary buttons, active nav
+   Ocean Intel    — charts, icons
+   Sunset Insight — alerts, critical states only
+--------------------------------------------------------------------- */
+.bg-aurora-flow {
+  background-image: linear-gradient(90deg, #00C2AB 0%, #2563EB 55%, #D946EF 100%);
+}
+.bg-ocean-intel {
+  background-image: linear-gradient(90deg, #00C2AB 0%, #2563EB 55%, #7C3AED 100%);
+}
+.bg-sunset-insight {
+  background-image: linear-gradient(90deg, #7C3AED 0%, #D946EF 55%, #FF8A3D 100%);
+}
+
+.brand-gradient-text {
+  background-image: linear-gradient(90deg, #00C2AB 0%, #2563EB 55%, #D946EF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.ocean-gradient-text {
+  background-image: linear-gradient(90deg, #00C2AB 0%, #2563EB 55%, #7C3AED 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.glow-aurora {
+  filter: drop-shadow(0 0 18px rgba(37, 99, 235, 0.45)) drop-shadow(0 0 32px rgba(0, 194, 171, 0.25));
+}
+
+/* keep native date-picker icon visible in dark mode (Chrome/Edge) */
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+
+/* scrollbar polish */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 8px; }
